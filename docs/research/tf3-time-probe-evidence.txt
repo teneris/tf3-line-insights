@@ -1,0 +1,227 @@
+[2026-10-03 11:01:41Z - MESSAGE  - Simulation Threa - Main           ]  [LineInsights] REQUEST lines=1
+[2026-10-03 11:01:41Z - MESSAGE  - Sim Pool 7       - Main           ]  [LineInsights] BEGIN line=81576 name=Obertshausen SB 1 componentNamespace=api.type.ComponentType gameTime=25217600 gameTime0=25217600 updateCount=126088 tickCount=164651 speedup=0 millisPerDay=4000
+[2026-10-03 11:01:41Z - MESSAGE  - Sim Pool 7       - Main           ]  [LineInsights] STOP tableIndex=1 stationGroup=91088 name=Kastanienweg station=0 terminal=0
+[2026-10-03 11:01:41Z - MESSAGE  - Sim Pool 7       - Main           ]  [LineInsights] STOP tableIndex=2 stationGroup=91095 name=Beethovenstrasse station=0 terminal=0
+[2026-10-03 11:01:41Z - MESSAGE  - Sim Pool 7       - Main           ]  [LineInsights] STOP tableIndex=3 stationGroup=91106 name=Raiffeisenstrasse station=0 terminal=0
+[2026-10-03 11:01:41Z - MESSAGE  - Sim Pool 7       - Main           ]  [LineInsights] STOP tableIndex=4 stationGroup=91109 name=Fliederweg station=0 terminal=0
+[2026-10-03 11:01:41Z - MESSAGE  - Sim Pool 7       - Main           ]  [LineInsights] STOP tableIndex=5 stationGroup=91122 name=Kirchplatz station=0 terminal=0
+[2026-10-03 11:01:41Z - MESSAGE  - Sim Pool 7       - Main           ]  [LineInsights] UNASSIGNED person=127858 reason=no_matching_terminal_or_vehicle
+[2026-10-03 11:01:41Z - MESSAGE  - Sim Pool 7       - Main           ]  [LineInsights] WAIT person=138647 line=81576 from=4 to=0 arrivalTime=25209600 vehicle=-1
+[2026-10-03 11:01:41Z - MESSAGE  - Sim Pool 7       - Main           ]  [LineInsights] UNASSIGNED person=136125 reason=no_matching_terminal_or_vehicle
+[2026-10-03 11:01:41Z - MESSAGE  - Sim Pool 7       - Main           ]  [LineInsights] UNASSIGNED person=139651 reason=no_matching_terminal_or_vehicle
+[2026-10-03 11:01:41Z - MESSAGE  - Sim Pool 7       - Main           ]  [LineInsights] UNASSIGNED person=143337 reason=no_matching_terminal_or_vehicle
+[2026-10-03 11:01:41Z - MESSAGE  - Sim Pool 7       - Main           ]  [LineInsights] UNASSIGNED person=129637 reason=no_matching_terminal_or_vehicle
+[2026-10-03 11:01:41Z - MESSAGE  - Sim Pool 7       - Main           ]  [LineInsights] UNASSIGNED person=115344 reason=no_matching_terminal_or_vehicle
+[2026-10-03 11:01:41Z - MESSAGE  - Sim Pool 7       - Main           ]  [LineInsights] UNASSIGNED person=109654 reason=no_matching_terminal_or_vehicle
+[2026-10-03 11:01:41Z - MESSAGE  - Sim Pool 7       - Main           ]  [LineInsights] UNASSIGNED person=103258 reason=no_matching_terminal_or_vehicle
+[2026-10-03 11:01:41Z - MESSAGE  - Sim Pool 7       - Main           ]  [LineInsights] WAIT person=135174 line=81576 from=1 to=3 arrivalTime=25158000 vehicle=-1
+[2026-10-03 11:01:41Z - MESSAGE  - Sim Pool 7       - Main           ]  [LineInsights] UNASSIGNED person=81181 reason=no_matching_terminal_or_vehicle
+[2026-10-03 11:01:41Z - MESSAGE  - Sim Pool 7       - Main           ]  [LineInsights] UNASSIGNED person=133600 reason=no_matching_terminal_or_vehicle
+[2026-10-03 11:01:41Z - MESSAGE  - Sim Pool 7       - Main           ]  [LineInsights] UNASSIGNED person=123137 reason=no_matching_terminal_or_vehicle
+[2026-10-03 11:01:41Z - MESSAGE  - Sim Pool 7       - Main           ]  [LineInsights] WAIT person=129632 line=81576 from=3 to=0 arrivalTime=25216600 vehicle=-1
+[2026-10-03 11:01:41Z - MESSAGE  - Sim Pool 7       - Main           ]  [LineInsights] WAIT person=119855 line=81576 from=1 to=2 arrivalTime=25193800 vehicle=-1
+[2026-10-03 11:01:41Z - MESSAGE  - Sim Pool 7       - Main           ]  [LineInsights] WAIT person=110779 line=81576 from=2 to=3 arrivalTime=25185800 vehicle=-1
+[2026-10-03 11:01:41Z - MESSAGE  - Sim Pool 7       - Main           ]  [LineInsights] WAIT_OD rawIndices=1->2 count=1
+[2026-10-03 11:01:41Z - MESSAGE  - Sim Pool 7       - Main           ]  [LineInsights] WAIT_OD rawIndices=1->3 count=1
+[2026-10-03 11:01:41Z - MESSAGE  - Sim Pool 7       - Main           ]  [LineInsights] WAIT_OD rawIndices=4->0 count=1
+[2026-10-03 11:01:41Z - MESSAGE  - Sim Pool 7       - Main           ]  [LineInsights] WAIT_OD rawIndices=2->3 count=1
+[2026-10-03 11:01:41Z - MESSAGE  - Sim Pool 7       - Main           ]  [LineInsights] WAIT_OD rawIndices=3->0 count=1
+[2026-10-03 11:01:41Z - MESSAGE  - Sim Pool 7       - Main           ]  [LineInsights] STOP_COMPARE rawIndex=0 fromPersons=0 terminalList=0 terminalCount=0
+[2026-10-03 11:01:41Z - MESSAGE  - Sim Pool 7       - Main           ]  [LineInsights] STOP_COMPARE rawIndex=1 fromPersons=2 terminalList=2 terminalCount=2
+[2026-10-03 11:01:41Z - MESSAGE  - Sim Pool 7       - Main           ]  [LineInsights] STOP_COMPARE rawIndex=2 fromPersons=1 terminalList=1 terminalCount=1
+[2026-10-03 11:01:41Z - MESSAGE  - Sim Pool 7       - Main           ]  [LineInsights] STOP_COMPARE rawIndex=3 fromPersons=1 terminalList=1 terminalCount=1
+[2026-10-03 11:01:41Z - MESSAGE  - Sim Pool 7       - Main           ]  [LineInsights] STOP_COMPARE rawIndex=4 fromPersons=1 terminalList=1 terminalCount=1
+[2026-10-03 11:01:41Z - MESSAGE  - Sim Pool 7       - Main           ]  [LineInsights] VEHICLE entity=81479 stopIndex=3 state=1 passengers=6
+[2026-10-03 11:01:41Z - MESSAGE  - Sim Pool 7       - Main           ]  [LineInsights] VEHICLE entity=81353 stopIndex=1 state=2 passengers=3
+[2026-10-03 11:01:41Z - MESSAGE  - Sim Pool 7       - Main           ]  [LineInsights] VEHICLE entity=81321 stopIndex=1 state=1 passengers=4
+[2026-10-03 11:01:41Z - MESSAGE  - Sim Pool 7       - Main           ]  [LineInsights] VEHICLE entity=81039 stopIndex=4 state=1 passengers=5
+[2026-10-03 11:01:41Z - MESSAGE  - Sim Pool 7       - Main           ]  [LineInsights] VEHICLE entity=80974 stopIndex=0 state=1 passengers=5
+[2026-10-03 11:01:41Z - MESSAGE  - Sim Pool 7       - Main           ]  [LineInsights] END line=81576 valid=true persons=39 waiting=5 onboard=23 unassigned=11 vehicles=5 lineKind=person_usage_observed waitDuration=not_verified sectionOccupancy=unknown gameTime=25217600 gameTime0=25217600 updateCount=126088 tickCount=164651 speedup=0 millisPerDay=4000 cpuSeconds=0.0020000000000095
+[2026-10-03 11:01:41Z - MESSAGE  - Sim Pool 7       - Main           ]  [LineInsights] SCAN_COMPLETE
+[2026-10-03 11:01:41Z - MESSAGE  - Sim Pool 7       - Main           ]  [LineInsights] TIME_PROBE dt=0 gameTime=25217600 gameTime0=25217600 updateCount=126088 tickCount=164651 speedup=0 millisPerDay=4000
+[2026-10-03 11:01:41Z - MESSAGE  - Sim Pool 7       - Main           ]  [LineInsights] PERSON_PROBE person=138647 waitingLine=81576 arrivalTime=25209600 onboardLine=nil vehicle=nil
+[2026-10-03 11:01:41Z - MESSAGE  - Sim Pool 7       - Main           ]  [LineInsights] PERSON_PROBE person=135174 waitingLine=81576 arrivalTime=25158000 onboardLine=nil vehicle=nil
+[2026-10-03 11:01:41Z - MESSAGE  - Sim Pool 7       - Main           ]  [LineInsights] PERSON_PROBE person=129632 waitingLine=81576 arrivalTime=25216600 onboardLine=nil vehicle=nil
+[2026-10-03 11:01:41Z - MESSAGE  - Sim Pool 7       - Main           ]  [LineInsights] PERSON_PROBE person=119855 waitingLine=81576 arrivalTime=25193800 onboardLine=nil vehicle=nil
+[2026-10-03 11:01:41Z - MESSAGE  - Sim Pool 7       - Main           ]  [LineInsights] PERSON_PROBE person=110779 waitingLine=81576 arrivalTime=25185800 onboardLine=nil vehicle=nil
+[2026-10-03 11:01:43Z - MESSAGE  - Sim Pool 6       - Main           ]  [LineInsights] TIME_PROBE dt=0 gameTime=25217600 gameTime0=25217600 updateCount=126088 tickCount=164661 speedup=0 millisPerDay=4000
+[2026-10-03 11:01:43Z - MESSAGE  - Sim Pool 6       - Main           ]  [LineInsights] PERSON_PROBE person=138647 waitingLine=81576 arrivalTime=25209600 onboardLine=nil vehicle=nil
+[2026-10-03 11:01:43Z - MESSAGE  - Sim Pool 6       - Main           ]  [LineInsights] PERSON_PROBE person=135174 waitingLine=81576 arrivalTime=25158000 onboardLine=nil vehicle=nil
+[2026-10-03 11:01:43Z - MESSAGE  - Sim Pool 6       - Main           ]  [LineInsights] PERSON_PROBE person=129632 waitingLine=81576 arrivalTime=25216600 onboardLine=nil vehicle=nil
+[2026-10-03 11:01:43Z - MESSAGE  - Sim Pool 6       - Main           ]  [LineInsights] PERSON_PROBE person=119855 waitingLine=81576 arrivalTime=25193800 onboardLine=nil vehicle=nil
+[2026-10-03 11:01:43Z - MESSAGE  - Sim Pool 6       - Main           ]  [LineInsights] PERSON_PROBE person=110779 waitingLine=81576 arrivalTime=25185800 onboardLine=nil vehicle=nil
+[2026-10-03 11:01:45Z - MESSAGE  - Sim Pool 3       - Main           ]  [LineInsights] TIME_PROBE dt=0 gameTime=25217600 gameTime0=25217600 updateCount=126088 tickCount=164671 speedup=0 millisPerDay=4000
+[2026-10-03 11:01:45Z - MESSAGE  - Sim Pool 3       - Main           ]  [LineInsights] PERSON_PROBE person=138647 waitingLine=81576 arrivalTime=25209600 onboardLine=nil vehicle=nil
+[2026-10-03 11:01:45Z - MESSAGE  - Sim Pool 3       - Main           ]  [LineInsights] PERSON_PROBE person=135174 waitingLine=81576 arrivalTime=25158000 onboardLine=nil vehicle=nil
+[2026-10-03 11:01:45Z - MESSAGE  - Sim Pool 3       - Main           ]  [LineInsights] PERSON_PROBE person=129632 waitingLine=81576 arrivalTime=25216600 onboardLine=nil vehicle=nil
+[2026-10-03 11:01:45Z - MESSAGE  - Sim Pool 3       - Main           ]  [LineInsights] PERSON_PROBE person=119855 waitingLine=81576 arrivalTime=25193800 onboardLine=nil vehicle=nil
+[2026-10-03 11:01:45Z - MESSAGE  - Sim Pool 3       - Main           ]  [LineInsights] PERSON_PROBE person=110779 waitingLine=81576 arrivalTime=25185800 onboardLine=nil vehicle=nil
+[2026-10-03 11:01:47Z - MESSAGE  - Sim Pool 5       - Main           ]  [LineInsights] TIME_PROBE dt=0 gameTime=25217600 gameTime0=25217600 updateCount=126088 tickCount=164681 speedup=0 millisPerDay=4000
+[2026-10-03 11:01:47Z - MESSAGE  - Sim Pool 5       - Main           ]  [LineInsights] PERSON_PROBE person=138647 waitingLine=81576 arrivalTime=25209600 onboardLine=nil vehicle=nil
+[2026-10-03 11:01:47Z - MESSAGE  - Sim Pool 5       - Main           ]  [LineInsights] PERSON_PROBE person=135174 waitingLine=81576 arrivalTime=25158000 onboardLine=nil vehicle=nil
+[2026-10-03 11:01:47Z - MESSAGE  - Sim Pool 5       - Main           ]  [LineInsights] PERSON_PROBE person=129632 waitingLine=81576 arrivalTime=25216600 onboardLine=nil vehicle=nil
+[2026-10-03 11:01:47Z - MESSAGE  - Sim Pool 5       - Main           ]  [LineInsights] PERSON_PROBE person=119855 waitingLine=81576 arrivalTime=25193800 onboardLine=nil vehicle=nil
+[2026-10-03 11:01:47Z - MESSAGE  - Sim Pool 5       - Main           ]  [LineInsights] PERSON_PROBE person=110779 waitingLine=81576 arrivalTime=25185800 onboardLine=nil vehicle=nil
+[2026-10-03 11:01:49Z - MESSAGE  - Sim Pool 6       - Main           ]  [LineInsights] TIME_PROBE dt=0 gameTime=25217600 gameTime0=25217600 updateCount=126088 tickCount=164691 speedup=0 millisPerDay=4000
+[2026-10-03 11:01:49Z - MESSAGE  - Sim Pool 6       - Main           ]  [LineInsights] PERSON_PROBE person=138647 waitingLine=81576 arrivalTime=25209600 onboardLine=nil vehicle=nil
+[2026-10-03 11:01:49Z - MESSAGE  - Sim Pool 6       - Main           ]  [LineInsights] PERSON_PROBE person=135174 waitingLine=81576 arrivalTime=25158000 onboardLine=nil vehicle=nil
+[2026-10-03 11:01:49Z - MESSAGE  - Sim Pool 6       - Main           ]  [LineInsights] PERSON_PROBE person=129632 waitingLine=81576 arrivalTime=25216600 onboardLine=nil vehicle=nil
+[2026-10-03 11:01:49Z - MESSAGE  - Sim Pool 6       - Main           ]  [LineInsights] PERSON_PROBE person=119855 waitingLine=81576 arrivalTime=25193800 onboardLine=nil vehicle=nil
+[2026-10-03 11:01:49Z - MESSAGE  - Sim Pool 6       - Main           ]  [LineInsights] PERSON_PROBE person=110779 waitingLine=81576 arrivalTime=25185800 onboardLine=nil vehicle=nil
+[2026-10-03 11:01:51Z - MESSAGE  - Sim Pool 1       - Main           ]  [LineInsights] TIME_PROBE dt=0 gameTime=25217600 gameTime0=25217600 updateCount=126088 tickCount=164701 speedup=0 millisPerDay=4000
+[2026-10-03 11:01:51Z - MESSAGE  - Sim Pool 1       - Main           ]  [LineInsights] PERSON_PROBE person=138647 waitingLine=81576 arrivalTime=25209600 onboardLine=nil vehicle=nil
+[2026-10-03 11:01:51Z - MESSAGE  - Sim Pool 1       - Main           ]  [LineInsights] PERSON_PROBE person=135174 waitingLine=81576 arrivalTime=25158000 onboardLine=nil vehicle=nil
+[2026-10-03 11:01:51Z - MESSAGE  - Sim Pool 1       - Main           ]  [LineInsights] PERSON_PROBE person=129632 waitingLine=81576 arrivalTime=25216600 onboardLine=nil vehicle=nil
+[2026-10-03 11:01:51Z - MESSAGE  - Sim Pool 1       - Main           ]  [LineInsights] PERSON_PROBE person=119855 waitingLine=81576 arrivalTime=25193800 onboardLine=nil vehicle=nil
+[2026-10-03 11:01:51Z - MESSAGE  - Sim Pool 1       - Main           ]  [LineInsights] PERSON_PROBE person=110779 waitingLine=81576 arrivalTime=25185800 onboardLine=nil vehicle=nil
+[2026-10-03 11:01:53Z - MESSAGE  - Sim Pool 3       - Main           ]  [LineInsights] TIME_PROBE dt=0 gameTime=25217600 gameTime0=25217600 updateCount=126088 tickCount=164711 speedup=0 millisPerDay=4000
+[2026-10-03 11:01:53Z - MESSAGE  - Sim Pool 3       - Main           ]  [LineInsights] PERSON_PROBE person=138647 waitingLine=81576 arrivalTime=25209600 onboardLine=nil vehicle=nil
+[2026-10-03 11:01:53Z - MESSAGE  - Sim Pool 3       - Main           ]  [LineInsights] PERSON_PROBE person=135174 waitingLine=81576 arrivalTime=25158000 onboardLine=nil vehicle=nil
+[2026-10-03 11:01:53Z - MESSAGE  - Sim Pool 3       - Main           ]  [LineInsights] PERSON_PROBE person=129632 waitingLine=81576 arrivalTime=25216600 onboardLine=nil vehicle=nil
+[2026-10-03 11:01:53Z - MESSAGE  - Sim Pool 3       - Main           ]  [LineInsights] PERSON_PROBE person=119855 waitingLine=81576 arrivalTime=25193800 onboardLine=nil vehicle=nil
+[2026-10-03 11:01:53Z - MESSAGE  - Sim Pool 3       - Main           ]  [LineInsights] PERSON_PROBE person=110779 waitingLine=81576 arrivalTime=25185800 onboardLine=nil vehicle=nil
+[2026-10-03 11:01:55Z - MESSAGE  - Sim Pool 3       - Main           ]  [LineInsights] TIME_PROBE dt=0 gameTime=25217600 gameTime0=25217600 updateCount=126088 tickCount=164721 speedup=0 millisPerDay=4000
+[2026-10-03 11:01:55Z - MESSAGE  - Sim Pool 3       - Main           ]  [LineInsights] PERSON_PROBE person=138647 waitingLine=81576 arrivalTime=25209600 onboardLine=nil vehicle=nil
+[2026-10-03 11:01:55Z - MESSAGE  - Sim Pool 3       - Main           ]  [LineInsights] PERSON_PROBE person=135174 waitingLine=81576 arrivalTime=25158000 onboardLine=nil vehicle=nil
+[2026-10-03 11:01:55Z - MESSAGE  - Sim Pool 3       - Main           ]  [LineInsights] PERSON_PROBE person=129632 waitingLine=81576 arrivalTime=25216600 onboardLine=nil vehicle=nil
+[2026-10-03 11:01:55Z - MESSAGE  - Sim Pool 3       - Main           ]  [LineInsights] PERSON_PROBE person=119855 waitingLine=81576 arrivalTime=25193800 onboardLine=nil vehicle=nil
+[2026-10-03 11:01:55Z - MESSAGE  - Sim Pool 3       - Main           ]  [LineInsights] PERSON_PROBE person=110779 waitingLine=81576 arrivalTime=25185800 onboardLine=nil vehicle=nil
+[2026-10-03 11:01:57Z - MESSAGE  - Sim Pool 6       - Main           ]  [LineInsights] TIME_PROBE dt=0 gameTime=25217600 gameTime0=25217600 updateCount=126088 tickCount=164731 speedup=0 millisPerDay=4000
+[2026-10-03 11:01:57Z - MESSAGE  - Sim Pool 6       - Main           ]  [LineInsights] PERSON_PROBE person=138647 waitingLine=81576 arrivalTime=25209600 onboardLine=nil vehicle=nil
+[2026-10-03 11:01:57Z - MESSAGE  - Sim Pool 6       - Main           ]  [LineInsights] PERSON_PROBE person=135174 waitingLine=81576 arrivalTime=25158000 onboardLine=nil vehicle=nil
+[2026-10-03 11:01:57Z - MESSAGE  - Sim Pool 6       - Main           ]  [LineInsights] PERSON_PROBE person=129632 waitingLine=81576 arrivalTime=25216600 onboardLine=nil vehicle=nil
+[2026-10-03 11:01:57Z - MESSAGE  - Sim Pool 6       - Main           ]  [LineInsights] PERSON_PROBE person=119855 waitingLine=81576 arrivalTime=25193800 onboardLine=nil vehicle=nil
+[2026-10-03 11:01:57Z - MESSAGE  - Sim Pool 6       - Main           ]  [LineInsights] PERSON_PROBE person=110779 waitingLine=81576 arrivalTime=25185800 onboardLine=nil vehicle=nil
+[2026-10-03 11:01:59Z - MESSAGE  - Sim Pool 5       - Main           ]  [LineInsights] TIME_PROBE dt=0.20000000298023 gameTime=25218800 gameTime0=25218600 updateCount=126094 tickCount=164741 speedup=1 millisPerDay=4000
+[2026-10-03 11:01:59Z - MESSAGE  - Sim Pool 5       - Main           ]  [LineInsights] PERSON_PROBE person=138647 waitingLine=81576 arrivalTime=25209600 onboardLine=nil vehicle=nil
+[2026-10-03 11:01:59Z - MESSAGE  - Sim Pool 5       - Main           ]  [LineInsights] PERSON_PROBE person=135174 waitingLine=81576 arrivalTime=25158000 onboardLine=nil vehicle=nil
+[2026-10-03 11:01:59Z - MESSAGE  - Sim Pool 5       - Main           ]  [LineInsights] PERSON_PROBE person=129632 waitingLine=81576 arrivalTime=25216600 onboardLine=nil vehicle=nil
+[2026-10-03 11:01:59Z - MESSAGE  - Sim Pool 5       - Main           ]  [LineInsights] PERSON_PROBE person=119855 waitingLine=nil arrivalTime=nil onboardLine=81576 vehicle=81353
+[2026-10-03 11:01:59Z - MESSAGE  - Sim Pool 5       - Main           ]  [LineInsights] PERSON_PROBE person=110779 waitingLine=81576 arrivalTime=25185800 onboardLine=nil vehicle=nil
+[2026-10-03 11:02:01Z - MESSAGE  - Sim Pool 2       - Main           ]  [LineInsights] TIME_PROBE dt=0.20000000298023 gameTime=25220800 gameTime0=25220600 updateCount=126104 tickCount=164751 speedup=1 millisPerDay=4000
+[2026-10-03 11:02:01Z - MESSAGE  - Sim Pool 2       - Main           ]  [LineInsights] PERSON_PROBE person=138647 waitingLine=81576 arrivalTime=25209600 onboardLine=nil vehicle=nil
+[2026-10-03 11:02:01Z - MESSAGE  - Sim Pool 2       - Main           ]  [LineInsights] PERSON_PROBE person=135174 waitingLine=nil arrivalTime=nil onboardLine=81576 vehicle=81353
+[2026-10-03 11:02:01Z - MESSAGE  - Sim Pool 2       - Main           ]  [LineInsights] PERSON_PROBE person=129632 waitingLine=81576 arrivalTime=25216600 onboardLine=nil vehicle=nil
+[2026-10-03 11:02:01Z - MESSAGE  - Sim Pool 2       - Main           ]  [LineInsights] PERSON_PROBE person=119855 waitingLine=nil arrivalTime=nil onboardLine=81576 vehicle=81353
+[2026-10-03 11:02:01Z - MESSAGE  - Sim Pool 2       - Main           ]  [LineInsights] PERSON_PROBE person=110779 waitingLine=81576 arrivalTime=25185800 onboardLine=nil vehicle=nil
+[2026-10-03 11:02:03Z - MESSAGE  - Sim Pool 1       - Main           ]  [LineInsights] TIME_PROBE dt=0.20000000298023 gameTime=25222800 gameTime0=25222600 updateCount=126114 tickCount=164761 speedup=1 millisPerDay=4000
+[2026-10-03 11:02:03Z - MESSAGE  - Sim Pool 1       - Main           ]  [LineInsights] PERSON_PROBE person=138647 waitingLine=81576 arrivalTime=25209600 onboardLine=nil vehicle=nil
+[2026-10-03 11:02:03Z - MESSAGE  - Sim Pool 1       - Main           ]  [LineInsights] PERSON_PROBE person=135174 waitingLine=nil arrivalTime=nil onboardLine=81576 vehicle=81353
+[2026-10-03 11:02:03Z - MESSAGE  - Sim Pool 1       - Main           ]  [LineInsights] PERSON_PROBE person=129632 waitingLine=81576 arrivalTime=25216600 onboardLine=nil vehicle=nil
+[2026-10-03 11:02:03Z - MESSAGE  - Sim Pool 1       - Main           ]  [LineInsights] PERSON_PROBE person=119855 waitingLine=nil arrivalTime=nil onboardLine=81576 vehicle=81353
+[2026-10-03 11:02:03Z - MESSAGE  - Sim Pool 1       - Main           ]  [LineInsights] PERSON_PROBE person=110779 waitingLine=81576 arrivalTime=25185800 onboardLine=nil vehicle=nil
+[2026-10-03 11:02:05Z - MESSAGE  - Sim Pool 1       - Main           ]  [LineInsights] TIME_PROBE dt=0.20000000298023 gameTime=25224800 gameTime0=25224600 updateCount=126124 tickCount=164771 speedup=1 millisPerDay=4000
+[2026-10-03 11:02:05Z - MESSAGE  - Sim Pool 1       - Main           ]  [LineInsights] PERSON_PROBE person=138647 waitingLine=81576 arrivalTime=25209600 onboardLine=nil vehicle=nil
+[2026-10-03 11:02:05Z - MESSAGE  - Sim Pool 1       - Main           ]  [LineInsights] PERSON_PROBE person=135174 waitingLine=nil arrivalTime=nil onboardLine=81576 vehicle=81353
+[2026-10-03 11:02:05Z - MESSAGE  - Sim Pool 1       - Main           ]  [LineInsights] PERSON_PROBE person=129632 waitingLine=81576 arrivalTime=25216600 onboardLine=nil vehicle=nil
+[2026-10-03 11:02:05Z - MESSAGE  - Sim Pool 1       - Main           ]  [LineInsights] PERSON_PROBE person=119855 waitingLine=nil arrivalTime=nil onboardLine=81576 vehicle=81353
+[2026-10-03 11:02:05Z - MESSAGE  - Sim Pool 1       - Main           ]  [LineInsights] PERSON_PROBE person=110779 waitingLine=81576 arrivalTime=25185800 onboardLine=nil vehicle=nil
+[2026-10-03 11:02:07Z - MESSAGE  - Sim Pool 4       - Main           ]  [LineInsights] TIME_PROBE dt=0.20000000298023 gameTime=25226800 gameTime0=25226600 updateCount=126134 tickCount=164781 speedup=1 millisPerDay=4000
+[2026-10-03 11:02:07Z - MESSAGE  - Sim Pool 4       - Main           ]  [LineInsights] PERSON_PROBE person=138647 waitingLine=81576 arrivalTime=25209600 onboardLine=nil vehicle=nil
+[2026-10-03 11:02:07Z - MESSAGE  - Sim Pool 4       - Main           ]  [LineInsights] PERSON_PROBE person=135174 waitingLine=nil arrivalTime=nil onboardLine=81576 vehicle=81353
+[2026-10-03 11:02:07Z - MESSAGE  - Sim Pool 4       - Main           ]  [LineInsights] PERSON_PROBE person=129632 waitingLine=81576 arrivalTime=25216600 onboardLine=nil vehicle=nil
+[2026-10-03 11:02:07Z - MESSAGE  - Sim Pool 4       - Main           ]  [LineInsights] PERSON_PROBE person=119855 waitingLine=nil arrivalTime=nil onboardLine=81576 vehicle=81353
+[2026-10-03 11:02:07Z - MESSAGE  - Sim Pool 4       - Main           ]  [LineInsights] PERSON_PROBE person=110779 waitingLine=81576 arrivalTime=25185800 onboardLine=nil vehicle=nil
+[2026-10-03 11:02:09Z - MESSAGE  - Sim Pool 7       - Main           ]  [LineInsights] TIME_PROBE dt=0.20000000298023 gameTime=25228800 gameTime0=25228600 updateCount=126144 tickCount=164791 speedup=1 millisPerDay=4000
+[2026-10-03 11:02:09Z - MESSAGE  - Sim Pool 7       - Main           ]  [LineInsights] PERSON_PROBE person=138647 waitingLine=81576 arrivalTime=25209600 onboardLine=nil vehicle=nil
+[2026-10-03 11:02:09Z - MESSAGE  - Sim Pool 7       - Main           ]  [LineInsights] PERSON_PROBE person=135174 waitingLine=nil arrivalTime=nil onboardLine=81576 vehicle=81353
+[2026-10-03 11:02:09Z - MESSAGE  - Sim Pool 7       - Main           ]  [LineInsights] PERSON_PROBE person=129632 waitingLine=81576 arrivalTime=25216600 onboardLine=nil vehicle=nil
+[2026-10-03 11:02:09Z - MESSAGE  - Sim Pool 7       - Main           ]  [LineInsights] PERSON_PROBE person=119855 waitingLine=nil arrivalTime=nil onboardLine=81576 vehicle=81353
+[2026-10-03 11:02:09Z - MESSAGE  - Sim Pool 7       - Main           ]  [LineInsights] PERSON_PROBE person=110779 waitingLine=81576 arrivalTime=25185800 onboardLine=nil vehicle=nil
+[2026-10-03 11:02:11Z - MESSAGE  - Sim Pool 4       - Main           ]  [LineInsights] TIME_PROBE dt=0.20000000298023 gameTime=25230800 gameTime0=25230600 updateCount=126154 tickCount=164801 speedup=1 millisPerDay=4000
+[2026-10-03 11:02:11Z - MESSAGE  - Sim Pool 4       - Main           ]  [LineInsights] PERSON_PROBE person=138647 waitingLine=81576 arrivalTime=25209600 onboardLine=nil vehicle=nil
+[2026-10-03 11:02:11Z - MESSAGE  - Sim Pool 4       - Main           ]  [LineInsights] PERSON_PROBE person=135174 waitingLine=nil arrivalTime=nil onboardLine=81576 vehicle=81353
+[2026-10-03 11:02:11Z - MESSAGE  - Sim Pool 4       - Main           ]  [LineInsights] PERSON_PROBE person=129632 waitingLine=81576 arrivalTime=25216600 onboardLine=nil vehicle=nil
+[2026-10-03 11:02:11Z - MESSAGE  - Sim Pool 4       - Main           ]  [LineInsights] PERSON_PROBE person=119855 waitingLine=nil arrivalTime=nil onboardLine=81576 vehicle=81353
+[2026-10-03 11:02:11Z - MESSAGE  - Sim Pool 4       - Main           ]  [LineInsights] PERSON_PROBE person=110779 waitingLine=81576 arrivalTime=25185800 onboardLine=nil vehicle=nil
+[2026-10-03 11:02:13Z - MESSAGE  - Sim Pool 5       - Main           ]  [LineInsights] TIME_PROBE dt=0.20000000298023 gameTime=25232800 gameTime0=25232600 updateCount=126164 tickCount=164811 speedup=1 millisPerDay=4000
+[2026-10-03 11:02:13Z - MESSAGE  - Sim Pool 5       - Main           ]  [LineInsights] PERSON_PROBE person=138647 waitingLine=81576 arrivalTime=25209600 onboardLine=nil vehicle=nil
+[2026-10-03 11:02:13Z - MESSAGE  - Sim Pool 5       - Main           ]  [LineInsights] PERSON_PROBE person=135174 waitingLine=nil arrivalTime=nil onboardLine=81576 vehicle=81353
+[2026-10-03 11:02:13Z - MESSAGE  - Sim Pool 5       - Main           ]  [LineInsights] PERSON_PROBE person=129632 waitingLine=81576 arrivalTime=25216600 onboardLine=nil vehicle=nil
+[2026-10-03 11:02:13Z - MESSAGE  - Sim Pool 5       - Main           ]  [LineInsights] PERSON_PROBE person=119855 waitingLine=nil arrivalTime=nil onboardLine=81576 vehicle=81353
+[2026-10-03 11:02:13Z - MESSAGE  - Sim Pool 5       - Main           ]  [LineInsights] PERSON_PROBE person=110779 waitingLine=81576 arrivalTime=25185800 onboardLine=nil vehicle=nil
+[2026-10-03 11:02:15Z - MESSAGE  - Sim Pool 1       - Main           ]  [LineInsights] TIME_PROBE dt=0.20000000298023 gameTime=25234800 gameTime0=25234600 updateCount=126174 tickCount=164821 speedup=1 millisPerDay=4000
+[2026-10-03 11:02:15Z - MESSAGE  - Sim Pool 1       - Main           ]  [LineInsights] PERSON_PROBE person=138647 waitingLine=81576 arrivalTime=25209600 onboardLine=nil vehicle=nil
+[2026-10-03 11:02:15Z - MESSAGE  - Sim Pool 1       - Main           ]  [LineInsights] PERSON_PROBE person=135174 waitingLine=nil arrivalTime=nil onboardLine=81576 vehicle=81353
+[2026-10-03 11:02:15Z - MESSAGE  - Sim Pool 1       - Main           ]  [LineInsights] PERSON_PROBE person=129632 waitingLine=81576 arrivalTime=25216600 onboardLine=nil vehicle=nil
+[2026-10-03 11:02:15Z - MESSAGE  - Sim Pool 1       - Main           ]  [LineInsights] PERSON_PROBE person=119855 waitingLine=nil arrivalTime=nil onboardLine=81576 vehicle=81353
+[2026-10-03 11:02:15Z - MESSAGE  - Sim Pool 1       - Main           ]  [LineInsights] PERSON_PROBE person=110779 waitingLine=81576 arrivalTime=25185800 onboardLine=nil vehicle=nil
+[2026-10-03 11:02:17Z - MESSAGE  - Sim Pool 6       - Main           ]  [LineInsights] TIME_PROBE dt=0.20000000298023 gameTime=25236800 gameTime0=25236600 updateCount=126184 tickCount=164831 speedup=1 millisPerDay=4000
+[2026-10-03 11:02:17Z - MESSAGE  - Sim Pool 6       - Main           ]  [LineInsights] PERSON_PROBE person=138647 waitingLine=81576 arrivalTime=25209600 onboardLine=nil vehicle=nil
+[2026-10-03 11:02:17Z - MESSAGE  - Sim Pool 6       - Main           ]  [LineInsights] PERSON_PROBE person=135174 waitingLine=nil arrivalTime=nil onboardLine=81576 vehicle=81353
+[2026-10-03 11:02:17Z - MESSAGE  - Sim Pool 6       - Main           ]  [LineInsights] PERSON_PROBE person=129632 waitingLine=81576 arrivalTime=25216600 onboardLine=nil vehicle=nil
+[2026-10-03 11:02:17Z - MESSAGE  - Sim Pool 6       - Main           ]  [LineInsights] PERSON_PROBE person=119855 waitingLine=nil arrivalTime=nil onboardLine=81576 vehicle=81353
+[2026-10-03 11:02:17Z - MESSAGE  - Sim Pool 6       - Main           ]  [LineInsights] PERSON_PROBE person=110779 waitingLine=81576 arrivalTime=25185800 onboardLine=nil vehicle=nil
+[2026-10-03 11:02:19Z - MESSAGE  - Sim Pool 4       - Main           ]  [LineInsights] TIME_PROBE dt=0.20000000298023 gameTime=25238800 gameTime0=25238600 updateCount=126194 tickCount=164841 speedup=1 millisPerDay=4000
+[2026-10-03 11:02:19Z - MESSAGE  - Sim Pool 4       - Main           ]  [LineInsights] PERSON_PROBE person=138647 waitingLine=81576 arrivalTime=25209600 onboardLine=nil vehicle=nil
+[2026-10-03 11:02:19Z - MESSAGE  - Sim Pool 4       - Main           ]  [LineInsights] PERSON_PROBE person=135174 waitingLine=nil arrivalTime=nil onboardLine=81576 vehicle=81353
+[2026-10-03 11:02:19Z - MESSAGE  - Sim Pool 4       - Main           ]  [LineInsights] PERSON_PROBE person=129632 waitingLine=81576 arrivalTime=25216600 onboardLine=nil vehicle=nil
+[2026-10-03 11:02:19Z - MESSAGE  - Sim Pool 4       - Main           ]  [LineInsights] PERSON_PROBE person=119855 waitingLine=nil arrivalTime=nil onboardLine=81576 vehicle=81353
+[2026-10-03 11:02:19Z - MESSAGE  - Sim Pool 4       - Main           ]  [LineInsights] PERSON_PROBE person=110779 waitingLine=81576 arrivalTime=25185800 onboardLine=nil vehicle=nil
+[2026-10-03 11:02:21Z - MESSAGE  - Sim Pool 2       - Main           ]  [LineInsights] TIME_PROBE dt=0.20000000298023 gameTime=25240800 gameTime0=25240600 updateCount=126204 tickCount=164851 speedup=1 millisPerDay=4000
+[2026-10-03 11:02:21Z - MESSAGE  - Sim Pool 2       - Main           ]  [LineInsights] PERSON_PROBE person=138647 waitingLine=81576 arrivalTime=25209600 onboardLine=nil vehicle=nil
+[2026-10-03 11:02:21Z - MESSAGE  - Sim Pool 2       - Main           ]  [LineInsights] PERSON_PROBE person=135174 waitingLine=nil arrivalTime=nil onboardLine=81576 vehicle=81353
+[2026-10-03 11:02:21Z - MESSAGE  - Sim Pool 2       - Main           ]  [LineInsights] PERSON_PROBE person=129632 waitingLine=81576 arrivalTime=25216600 onboardLine=nil vehicle=nil
+[2026-10-03 11:02:21Z - MESSAGE  - Sim Pool 2       - Main           ]  [LineInsights] PERSON_PROBE person=119855 waitingLine=nil arrivalTime=nil onboardLine=81576 vehicle=81353
+[2026-10-03 11:02:21Z - MESSAGE  - Sim Pool 2       - Main           ]  [LineInsights] PERSON_PROBE person=110779 waitingLine=81576 arrivalTime=25185800 onboardLine=nil vehicle=nil
+[2026-10-03 11:02:23Z - MESSAGE  - Sim Pool 6       - Main           ]  [LineInsights] TIME_PROBE dt=0.20000000298023 gameTime=25242800 gameTime0=25242600 updateCount=126214 tickCount=164861 speedup=1 millisPerDay=4000
+[2026-10-03 11:02:23Z - MESSAGE  - Sim Pool 6       - Main           ]  [LineInsights] PERSON_PROBE person=138647 waitingLine=81576 arrivalTime=25209600 onboardLine=nil vehicle=nil
+[2026-10-03 11:02:23Z - MESSAGE  - Sim Pool 6       - Main           ]  [LineInsights] PERSON_PROBE person=135174 waitingLine=nil arrivalTime=nil onboardLine=81576 vehicle=81353
+[2026-10-03 11:02:23Z - MESSAGE  - Sim Pool 6       - Main           ]  [LineInsights] PERSON_PROBE person=129632 waitingLine=81576 arrivalTime=25216600 onboardLine=nil vehicle=nil
+[2026-10-03 11:02:23Z - MESSAGE  - Sim Pool 6       - Main           ]  [LineInsights] PERSON_PROBE person=119855 waitingLine=nil arrivalTime=nil onboardLine=81576 vehicle=81353
+[2026-10-03 11:02:23Z - MESSAGE  - Sim Pool 6       - Main           ]  [LineInsights] PERSON_PROBE person=110779 waitingLine=81576 arrivalTime=25185800 onboardLine=nil vehicle=nil
+[2026-10-03 11:02:24Z - MESSAGE  - Sim Pool 7       - Main           ]  [LineInsights] TIME_PROBE dt=0.20000000298023 gameTime=25244800 gameTime0=25244600 updateCount=126224 tickCount=164871 speedup=4 millisPerDay=4000
+[2026-10-03 11:02:24Z - MESSAGE  - Sim Pool 7       - Main           ]  [LineInsights] PERSON_PROBE person=138647 waitingLine=81576 arrivalTime=25209600 onboardLine=nil vehicle=nil
+[2026-10-03 11:02:24Z - MESSAGE  - Sim Pool 7       - Main           ]  [LineInsights] PERSON_PROBE person=135174 waitingLine=nil arrivalTime=nil onboardLine=81576 vehicle=81353
+[2026-10-03 11:02:24Z - MESSAGE  - Sim Pool 7       - Main           ]  [LineInsights] PERSON_PROBE person=129632 waitingLine=81576 arrivalTime=25216600 onboardLine=nil vehicle=nil
+[2026-10-03 11:02:24Z - MESSAGE  - Sim Pool 7       - Main           ]  [LineInsights] PERSON_PROBE person=119855 waitingLine=nil arrivalTime=nil onboardLine=81576 vehicle=81353
+[2026-10-03 11:02:24Z - MESSAGE  - Sim Pool 7       - Main           ]  [LineInsights] PERSON_PROBE person=110779 waitingLine=81576 arrivalTime=25185800 onboardLine=nil vehicle=nil
+[2026-10-03 11:02:24Z - MESSAGE  - Sim Pool 6       - Main           ]  [LineInsights] TIME_PROBE dt=0.20000000298023 gameTime=25246800 gameTime0=25246200 updateCount=126234 tickCount=164881 speedup=4 millisPerDay=4000
+[2026-10-03 11:02:24Z - MESSAGE  - Sim Pool 6       - Main           ]  [LineInsights] PERSON_PROBE person=138647 waitingLine=81576 arrivalTime=25209600 onboardLine=nil vehicle=nil
+[2026-10-03 11:02:24Z - MESSAGE  - Sim Pool 6       - Main           ]  [LineInsights] PERSON_PROBE person=135174 waitingLine=nil arrivalTime=nil onboardLine=81576 vehicle=81353
+[2026-10-03 11:02:24Z - MESSAGE  - Sim Pool 6       - Main           ]  [LineInsights] PERSON_PROBE person=129632 waitingLine=81576 arrivalTime=25216600 onboardLine=nil vehicle=nil
+[2026-10-03 11:02:24Z - MESSAGE  - Sim Pool 6       - Main           ]  [LineInsights] PERSON_PROBE person=119855 waitingLine=nil arrivalTime=nil onboardLine=81576 vehicle=81353
+[2026-10-03 11:02:24Z - MESSAGE  - Sim Pool 6       - Main           ]  [LineInsights] PERSON_PROBE person=110779 waitingLine=81576 arrivalTime=25185800 onboardLine=nil vehicle=nil
+[2026-10-03 11:02:25Z - MESSAGE  - Sim Pool 7       - Main           ]  [LineInsights] TIME_PROBE dt=0.20000000298023 gameTime=25248800 gameTime0=25248600 updateCount=126244 tickCount=164891 speedup=4 millisPerDay=4000
+[2026-10-03 11:02:25Z - MESSAGE  - Sim Pool 7       - Main           ]  [LineInsights] PERSON_PROBE person=138647 waitingLine=81576 arrivalTime=25209600 onboardLine=nil vehicle=nil
+[2026-10-03 11:02:25Z - MESSAGE  - Sim Pool 7       - Main           ]  [LineInsights] PERSON_PROBE person=135174 waitingLine=nil arrivalTime=nil onboardLine=81576 vehicle=81353
+[2026-10-03 11:02:25Z - MESSAGE  - Sim Pool 7       - Main           ]  [LineInsights] PERSON_PROBE person=129632 waitingLine=81576 arrivalTime=25216600 onboardLine=nil vehicle=nil
+[2026-10-03 11:02:25Z - MESSAGE  - Sim Pool 7       - Main           ]  [LineInsights] PERSON_PROBE person=119855 waitingLine=nil arrivalTime=nil onboardLine=81576 vehicle=81353
+[2026-10-03 11:02:25Z - MESSAGE  - Sim Pool 7       - Main           ]  [LineInsights] PERSON_PROBE person=110779 waitingLine=81576 arrivalTime=25185800 onboardLine=nil vehicle=nil
+[2026-10-03 11:02:25Z - MESSAGE  - Sim Pool 1       - Main           ]  [LineInsights] TIME_PROBE dt=0.20000000298023 gameTime=25250800 gameTime0=25250200 updateCount=126254 tickCount=164901 speedup=4 millisPerDay=4000
+[2026-10-03 11:02:25Z - MESSAGE  - Sim Pool 1       - Main           ]  [LineInsights] PERSON_PROBE person=138647 waitingLine=81576 arrivalTime=25209600 onboardLine=nil vehicle=nil
+[2026-10-03 11:02:25Z - MESSAGE  - Sim Pool 1       - Main           ]  [LineInsights] PERSON_PROBE person=135174 waitingLine=nil arrivalTime=nil onboardLine=81576 vehicle=81353
+[2026-10-03 11:02:25Z - MESSAGE  - Sim Pool 1       - Main           ]  [LineInsights] PERSON_PROBE person=129632 waitingLine=81576 arrivalTime=25216600 onboardLine=nil vehicle=nil
+[2026-10-03 11:02:25Z - MESSAGE  - Sim Pool 1       - Main           ]  [LineInsights] PERSON_PROBE person=119855 waitingLine=nil arrivalTime=nil onboardLine=81576 vehicle=81353
+[2026-10-03 11:02:25Z - MESSAGE  - Sim Pool 1       - Main           ]  [LineInsights] PERSON_PROBE person=110779 waitingLine=81576 arrivalTime=25185800 onboardLine=nil vehicle=nil
+[2026-10-03 11:02:26Z - MESSAGE  - Sim Pool 1       - Main           ]  [LineInsights] TIME_PROBE dt=0.20000000298023 gameTime=25252800 gameTime0=25252600 updateCount=126264 tickCount=164911 speedup=4 millisPerDay=4000
+[2026-10-03 11:02:26Z - MESSAGE  - Sim Pool 1       - Main           ]  [LineInsights] PERSON_PROBE person=138647 waitingLine=nil arrivalTime=nil onboardLine=81576 vehicle=81039
+[2026-10-03 11:02:26Z - MESSAGE  - Sim Pool 1       - Main           ]  [LineInsights] PERSON_PROBE person=135174 waitingLine=nil arrivalTime=nil onboardLine=81576 vehicle=81353
+[2026-10-03 11:02:26Z - MESSAGE  - Sim Pool 1       - Main           ]  [LineInsights] PERSON_PROBE person=129632 waitingLine=81576 arrivalTime=25216600 onboardLine=nil vehicle=nil
+[2026-10-03 11:02:26Z - MESSAGE  - Sim Pool 1       - Main           ]  [LineInsights] PERSON_PROBE person=119855 waitingLine=nil arrivalTime=nil onboardLine=81576 vehicle=81353
+[2026-10-03 11:02:26Z - MESSAGE  - Sim Pool 1       - Main           ]  [LineInsights] PERSON_PROBE person=110779 waitingLine=81576 arrivalTime=25185800 onboardLine=nil vehicle=nil
+[2026-10-03 11:02:26Z - MESSAGE  - Sim Pool 7       - Main           ]  [LineInsights] TIME_PROBE dt=0.20000000298023 gameTime=25254800 gameTime0=25254200 updateCount=126274 tickCount=164921 speedup=4 millisPerDay=4000
+[2026-10-03 11:02:26Z - MESSAGE  - Sim Pool 7       - Main           ]  [LineInsights] PERSON_PROBE person=138647 waitingLine=nil arrivalTime=nil onboardLine=81576 vehicle=81039
+[2026-10-03 11:02:26Z - MESSAGE  - Sim Pool 7       - Main           ]  [LineInsights] PERSON_PROBE person=135174 waitingLine=nil arrivalTime=nil onboardLine=81576 vehicle=81353
+[2026-10-03 11:02:26Z - MESSAGE  - Sim Pool 7       - Main           ]  [LineInsights] PERSON_PROBE person=129632 waitingLine=81576 arrivalTime=25216600 onboardLine=nil vehicle=nil
+[2026-10-03 11:02:26Z - MESSAGE  - Sim Pool 7       - Main           ]  [LineInsights] PERSON_PROBE person=119855 waitingLine=nil arrivalTime=nil onboardLine=81576 vehicle=81353
+[2026-10-03 11:02:26Z - MESSAGE  - Sim Pool 7       - Main           ]  [LineInsights] PERSON_PROBE person=110779 waitingLine=81576 arrivalTime=25185800 onboardLine=nil vehicle=nil
+[2026-10-03 11:02:27Z - MESSAGE  - Sim Pool 2       - Main           ]  [LineInsights] TIME_PROBE dt=0.20000000298023 gameTime=25256800 gameTime0=25256600 updateCount=126284 tickCount=164931 speedup=4 millisPerDay=4000
+[2026-10-03 11:02:27Z - MESSAGE  - Sim Pool 2       - Main           ]  [LineInsights] PERSON_PROBE person=138647 waitingLine=nil arrivalTime=nil onboardLine=81576 vehicle=81039
+[2026-10-03 11:02:27Z - MESSAGE  - Sim Pool 2       - Main           ]  [LineInsights] PERSON_PROBE person=135174 waitingLine=nil arrivalTime=nil onboardLine=81576 vehicle=81353
+[2026-10-03 11:02:27Z - MESSAGE  - Sim Pool 2       - Main           ]  [LineInsights] PERSON_PROBE person=129632 waitingLine=81576 arrivalTime=25216600 onboardLine=nil vehicle=nil
+[2026-10-03 11:02:27Z - MESSAGE  - Sim Pool 2       - Main           ]  [LineInsights] PERSON_PROBE person=119855 waitingLine=nil arrivalTime=nil onboardLine=81576 vehicle=81353
+[2026-10-03 11:02:27Z - MESSAGE  - Sim Pool 2       - Main           ]  [LineInsights] PERSON_PROBE person=110779 waitingLine=81576 arrivalTime=25185800 onboardLine=nil vehicle=nil
+[2026-10-03 11:02:27Z - MESSAGE  - Sim Pool 7       - Main           ]  [LineInsights] TIME_PROBE dt=0.20000000298023 gameTime=25258800 gameTime0=25258200 updateCount=126294 tickCount=164941 speedup=4 millisPerDay=4000
+[2026-10-03 11:02:27Z - MESSAGE  - Sim Pool 7       - Main           ]  [LineInsights] PERSON_PROBE person=138647 waitingLine=nil arrivalTime=nil onboardLine=81576 vehicle=81039
+[2026-10-03 11:02:27Z - MESSAGE  - Sim Pool 7       - Main           ]  [LineInsights] PERSON_PROBE person=135174 waitingLine=nil arrivalTime=nil onboardLine=81576 vehicle=81353
+[2026-10-03 11:02:27Z - MESSAGE  - Sim Pool 7       - Main           ]  [LineInsights] PERSON_PROBE person=129632 waitingLine=81576 arrivalTime=25216600 onboardLine=nil vehicle=nil
+[2026-10-03 11:02:27Z - MESSAGE  - Sim Pool 7       - Main           ]  [LineInsights] PERSON_PROBE person=119855 waitingLine=nil arrivalTime=nil onboardLine=81576 vehicle=81353
+[2026-10-03 11:02:27Z - MESSAGE  - Sim Pool 7       - Main           ]  [LineInsights] PERSON_PROBE person=110779 waitingLine=81576 arrivalTime=25185800 onboardLine=nil vehicle=nil
+[2026-10-03 11:02:28Z - MESSAGE  - Sim Pool 6       - Main           ]  [LineInsights] TIME_PROBE dt=0.20000000298023 gameTime=25260800 gameTime0=25260600 updateCount=126304 tickCount=164951 speedup=4 millisPerDay=4000
+[2026-10-03 11:02:28Z - MESSAGE  - Sim Pool 6       - Main           ]  [LineInsights] PERSON_PROBE person=138647 waitingLine=nil arrivalTime=nil onboardLine=81576 vehicle=81039
+[2026-10-03 11:02:28Z - MESSAGE  - Sim Pool 6       - Main           ]  [LineInsights] PERSON_PROBE person=135174 waitingLine=nil arrivalTime=nil onboardLine=81576 vehicle=81353
+[2026-10-03 11:02:28Z - MESSAGE  - Sim Pool 6       - Main           ]  [LineInsights] PERSON_PROBE person=129632 waitingLine=81576 arrivalTime=25216600 onboardLine=nil vehicle=nil
+[2026-10-03 11:02:28Z - MESSAGE  - Sim Pool 6       - Main           ]  [LineInsights] PERSON_PROBE person=119855 waitingLine=nil arrivalTime=nil onboardLine=81576 vehicle=81353
+[2026-10-03 11:02:28Z - MESSAGE  - Sim Pool 6       - Main           ]  [LineInsights] PERSON_PROBE person=110779 waitingLine=81576 arrivalTime=25185800 onboardLine=nil vehicle=nil
+[2026-10-03 11:02:28Z - MESSAGE  - Sim Pool 6       - Main           ]  [LineInsights] PROBE_COMPLETE

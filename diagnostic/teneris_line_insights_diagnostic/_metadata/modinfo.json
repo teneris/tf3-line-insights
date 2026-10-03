@@ -1,0 +1,8 @@
+{
+  "authors": [{ "name": "teneris", "role": "CREATOR" }],
+  "name": "Line Insights - Diagnose",
+  "description": "Manuell ausgeloeste Rohdatenmessung fuer die lokale API-Pruefung. Keine Linien- oder Fahrzeugaenderungen.",
+  "summary": "Diagnose fuer Line Insights v0.1",
+  "tags": ["Script Mod"],
+  "url": ""
+}

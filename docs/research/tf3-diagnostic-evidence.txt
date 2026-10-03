@@ -1,0 +1,411 @@
+[2026-10-03 10:29:16Z - MESSAGE  - Sim Pool 2       - Main           ]  [LineInsights] READY event=LineInsights/Measure
+[2026-10-03 10:42:53Z - MESSAGE  - Simulation Threa - Main           ]  [LineInsights] REQUEST lines=19
+[2026-10-03 10:42:53Z - MESSAGE  - Sim Pool 5       - Main           ]  [LineInsights] BEGIN line=73645 name=Linie 4 componentNamespace=api.type.ComponentType gameTime=25111400 gameTime0=25111400 updateCount=125557 tickCount=162464 speedup=0 millisPerDay=4000
+[2026-10-03 10:42:53Z - MESSAGE  - Sim Pool 5       - Main           ]  [LineInsights] STOP tableIndex=1 stationGroup=134509 name=Lindenstrasse station=0 terminal=0
+[2026-10-03 10:42:53Z - MESSAGE  - Sim Pool 5       - Main           ]  [LineInsights] STOP tableIndex=2 stationGroup=59707 name=Straubing Ölraffinerie station=0 terminal=0
+[2026-10-03 10:42:53Z - MESSAGE  - Sim Pool 5       - Main           ]  [LineInsights] STOP_COMPARE rawIndex=0 fromPersons=0 terminalList=0 terminalCount=0
+[2026-10-03 10:42:53Z - MESSAGE  - Sim Pool 5       - Main           ]  [LineInsights] STOP_COMPARE rawIndex=1 fromPersons=0 terminalList=0 terminalCount=0
+[2026-10-03 10:42:53Z - MESSAGE  - Sim Pool 5       - Main           ]  [LineInsights] VEHICLE entity=73644 stopIndex=1 state=1 passengers=5
+[2026-10-03 10:42:53Z - MESSAGE  - Sim Pool 5       - Main           ]  [LineInsights] VEHICLE entity=73641 stopIndex=1 state=1 passengers=6
+[2026-10-03 10:42:53Z - MESSAGE  - Sim Pool 5       - Main           ]  [LineInsights] VEHICLE entity=73642 stopIndex=0 state=1 passengers=4
+[2026-10-03 10:42:53Z - MESSAGE  - Sim Pool 5       - Main           ]  [LineInsights] VEHICLE entity=73643 stopIndex=1 state=1 passengers=1
+[2026-10-03 10:42:53Z - MESSAGE  - Sim Pool 5       - Main           ]  [LineInsights] END line=73645 valid=true persons=16 waiting=0 onboard=16 unassigned=0 vehicles=4 lineKind=person_usage_observed waitDuration=not_verified sectionOccupancy=unknown gameTime=25111400 gameTime0=25111400 updateCount=125557 tickCount=162464 speedup=0 millisPerDay=4000
+[2026-10-03 10:42:54Z - MESSAGE  - Sim Pool 7       - Main           ]  [LineInsights] BEGIN line=79760 name=Gemüse -> Dahlewitz componentNamespace=api.type.ComponentType gameTime=25111400 gameTime0=25111400 updateCount=125557 tickCount=162465 speedup=0 millisPerDay=4000
+[2026-10-03 10:42:54Z - MESSAGE  - Sim Pool 7       - Main           ]  [LineInsights] STOP tableIndex=1 stationGroup=111672 name=Obertshausen Station station=0 terminal=2
+[2026-10-03 10:42:54Z - MESSAGE  - Sim Pool 7       - Main           ]  [LineInsights] STOP tableIndex=2 stationGroup=99374 name=Dahlewitz Station Abstellgleis station=0 terminal=2
+[2026-10-03 10:42:54Z - MESSAGE  - Sim Pool 7       - Main           ]  [LineInsights] STOP_COMPARE rawIndex=0 fromPersons=0 terminalList=0 terminalCount=0
+[2026-10-03 10:42:54Z - MESSAGE  - Sim Pool 7       - Main           ]  [LineInsights] STOP_COMPARE rawIndex=1 fromPersons=0 terminalList=0 terminalCount=0
+[2026-10-03 10:42:54Z - MESSAGE  - Sim Pool 7       - Main           ]  [LineInsights] VEHICLE entity=115114 stopIndex=1 state=1 passengers=0
+[2026-10-03 10:42:54Z - MESSAGE  - Sim Pool 7       - Main           ]  [LineInsights] VEHICLE entity=99037 stopIndex=1 state=1 passengers=0
+[2026-10-03 10:42:54Z - MESSAGE  - Sim Pool 7       - Main           ]  [LineInsights] VEHICLE entity=88222 stopIndex=0 state=1 passengers=0
+[2026-10-03 10:42:54Z - MESSAGE  - Sim Pool 7       - Main           ]  [LineInsights] VEHICLE entity=114908 stopIndex=0 state=1 passengers=0
+[2026-10-03 10:42:54Z - MESSAGE  - Sim Pool 7       - Main           ]  [LineInsights] VEHICLE entity=95844 stopIndex=0 state=1 passengers=0
+[2026-10-03 10:42:54Z - MESSAGE  - Sim Pool 7       - Main           ]  [LineInsights] VEHICLE entity=99922 stopIndex=0 state=1 passengers=0
+[2026-10-03 10:42:54Z - MESSAGE  - Sim Pool 7       - Main           ]  [LineInsights] VEHICLE entity=114914 stopIndex=0 state=1 passengers=0
+[2026-10-03 10:42:54Z - MESSAGE  - Sim Pool 7       - Main           ]  [LineInsights] VEHICLE entity=95875 stopIndex=0 state=1 passengers=0
+[2026-10-03 10:42:54Z - MESSAGE  - Sim Pool 7       - Main           ]  [LineInsights] VEHICLE entity=110866 stopIndex=0 state=1 passengers=0
+[2026-10-03 10:42:54Z - MESSAGE  - Sim Pool 7       - Main           ]  [LineInsights] VEHICLE entity=108009 stopIndex=0 state=1 passengers=0
+[2026-10-03 10:42:54Z - MESSAGE  - Sim Pool 7       - Main           ]  [LineInsights] VEHICLE entity=95915 stopIndex=0 state=1 passengers=0
+[2026-10-03 10:42:54Z - MESSAGE  - Sim Pool 7       - Main           ]  [LineInsights] VEHICLE entity=99393 stopIndex=1 state=1 passengers=0
+[2026-10-03 10:42:54Z - MESSAGE  - Sim Pool 7       - Main           ]  [LineInsights] VEHICLE entity=95927 stopIndex=0 state=1 passengers=0
+[2026-10-03 10:42:54Z - MESSAGE  - Sim Pool 7       - Main           ]  [LineInsights] VEHICLE entity=79142 stopIndex=1 state=2 passengers=0
+[2026-10-03 10:42:54Z - MESSAGE  - Sim Pool 7       - Main           ]  [LineInsights] VEHICLE entity=99535 stopIndex=0 state=1 passengers=0
+[2026-10-03 10:42:54Z - MESSAGE  - Sim Pool 7       - Main           ]  [LineInsights] VEHICLE entity=112674 stopIndex=0 state=1 passengers=0
+[2026-10-03 10:42:54Z - MESSAGE  - Sim Pool 7       - Main           ]  [LineInsights] VEHICLE entity=114297 stopIndex=1 state=2 passengers=0
+[2026-10-03 10:42:54Z - MESSAGE  - Sim Pool 7       - Main           ]  [LineInsights] VEHICLE entity=103339 stopIndex=1 state=2 passengers=0
+[2026-10-03 10:42:54Z - MESSAGE  - Sim Pool 7       - Main           ]  [LineInsights] VEHICLE entity=109811 stopIndex=1 state=2 passengers=0
+[2026-10-03 10:42:54Z - MESSAGE  - Sim Pool 7       - Main           ]  [LineInsights] END line=79760 valid=true persons=0 waiting=0 onboard=0 unassigned=0 vehicles=19 lineKind=unknown waitDuration=not_verified sectionOccupancy=unknown gameTime=25111400 gameTime0=25111400 updateCount=125557 tickCount=162465 speedup=0 millisPerDay=4000
+[2026-10-03 10:42:54Z - MESSAGE  - Sim Pool 5       - Main           ]  [LineInsights] BEGIN line=81576 name=Obertshausen SB 1 componentNamespace=api.type.ComponentType gameTime=25111400 gameTime0=25111400 updateCount=125557 tickCount=162466 speedup=0 millisPerDay=4000
+[2026-10-03 10:42:54Z - MESSAGE  - Sim Pool 5       - Main           ]  [LineInsights] STOP tableIndex=1 stationGroup=91088 name=Kastanienweg station=0 terminal=0
+[2026-10-03 10:42:54Z - MESSAGE  - Sim Pool 5       - Main           ]  [LineInsights] STOP tableIndex=2 stationGroup=91095 name=Beethovenstrasse station=0 terminal=0
+[2026-10-03 10:42:54Z - MESSAGE  - Sim Pool 5       - Main           ]  [LineInsights] STOP tableIndex=3 stationGroup=91106 name=Raiffeisenstrasse station=0 terminal=0
+[2026-10-03 10:42:54Z - MESSAGE  - Sim Pool 5       - Main           ]  [LineInsights] STOP tableIndex=4 stationGroup=91109 name=Fliederweg station=0 terminal=0
+[2026-10-03 10:42:54Z - MESSAGE  - Sim Pool 5       - Main           ]  [LineInsights] STOP tableIndex=5 stationGroup=91122 name=Kirchplatz station=0 terminal=0
+[2026-10-03 10:42:54Z - MESSAGE  - Sim Pool 5       - Main           ]  [LineInsights] UNASSIGNED person=122202 reason=no_matching_terminal_or_vehicle
+[2026-10-03 10:42:54Z - MESSAGE  - Sim Pool 5       - Main           ]  [LineInsights] UNASSIGNED person=114582 reason=no_matching_terminal_or_vehicle
+[2026-10-03 10:42:54Z - MESSAGE  - Sim Pool 5       - Main           ]  [LineInsights] UNASSIGNED person=118173 reason=no_matching_terminal_or_vehicle
+[2026-10-03 10:42:54Z - MESSAGE  - Sim Pool 5       - Main           ]  [LineInsights] WAIT person=104762 line=81576 from=1 to=4 arrivalTime=25104400 vehicle=-1
+[2026-10-03 10:42:54Z - MESSAGE  - Sim Pool 5       - Main           ]  [LineInsights] WAIT person=104121 line=81576 from=2 to=3 arrivalTime=25031800 vehicle=-1
+[2026-10-03 10:42:54Z - MESSAGE  - Sim Pool 5       - Main           ]  [LineInsights] UNASSIGNED person=106083 reason=no_matching_terminal_or_vehicle
+[2026-10-03 10:42:54Z - MESSAGE  - Sim Pool 5       - Main           ]  [LineInsights] UNASSIGNED person=131403 reason=no_matching_terminal_or_vehicle
+[2026-10-03 10:42:54Z - MESSAGE  - Sim Pool 5       - Main           ]  [LineInsights] UNASSIGNED person=135174 reason=no_matching_terminal_or_vehicle
+[2026-10-03 10:42:54Z - MESSAGE  - Sim Pool 5       - Main           ]  [LineInsights] UNASSIGNED person=138647 reason=no_matching_terminal_or_vehicle
+[2026-10-03 10:42:54Z - MESSAGE  - Sim Pool 5       - Main           ]  [LineInsights] UNASSIGNED person=138356 reason=no_matching_terminal_or_vehicle
+[2026-10-03 10:42:54Z - MESSAGE  - Sim Pool 5       - Main           ]  [LineInsights] UNASSIGNED person=39337 reason=no_matching_terminal_or_vehicle
+[2026-10-03 10:42:54Z - MESSAGE  - Sim Pool 5       - Main           ]  [LineInsights] UNASSIGNED person=134976 reason=no_matching_terminal_or_vehicle
+[2026-10-03 10:42:54Z - MESSAGE  - Sim Pool 5       - Main           ]  [LineInsights] UNASSIGNED person=63527 reason=no_matching_terminal_or_vehicle
+[2026-10-03 10:42:54Z - MESSAGE  - Sim Pool 5       - Main           ]  [LineInsights] UNASSIGNED person=127858 reason=no_matching_terminal_or_vehicle
+[2026-10-03 10:42:54Z - MESSAGE  - Sim Pool 5       - Main           ]  [LineInsights] WAIT person=115416 line=81576 from=3 to=0 arrivalTime=25062400 vehicle=-1
+[2026-10-03 10:42:54Z - MESSAGE  - Sim Pool 5       - Main           ]  [LineInsights] WAIT person=132814 line=81576 from=2 to=3 arrivalTime=25032200 vehicle=-1
+[2026-10-03 10:42:54Z - MESSAGE  - Sim Pool 5       - Main           ]  [LineInsights] UNASSIGNED person=110169 reason=no_matching_terminal_or_vehicle
+[2026-10-03 10:42:54Z - MESSAGE  - Sim Pool 5       - Main           ]  [LineInsights] WAIT person=119218 line=81576 from=3 to=4 arrivalTime=25087800 vehicle=-1
+[2026-10-03 10:42:54Z - MESSAGE  - Sim Pool 5       - Main           ]  [LineInsights] UNASSIGNED person=133600 reason=no_matching_terminal_or_vehicle
+[2026-10-03 10:42:54Z - MESSAGE  - Sim Pool 5       - Main           ]  [LineInsights] UNASSIGNED person=116850 reason=no_matching_terminal_or_vehicle
+[2026-10-03 10:42:54Z - MESSAGE  - Sim Pool 5       - Main           ]  [LineInsights] WAIT_OD rawIndices=1->4 count=1
+[2026-10-03 10:42:54Z - MESSAGE  - Sim Pool 5       - Main           ]  [LineInsights] WAIT_OD rawIndices=1->3 count=2
+[2026-10-03 10:42:54Z - MESSAGE  - Sim Pool 5       - Main           ]  [LineInsights] WAIT_OD rawIndices=3->4 count=1
+[2026-10-03 10:42:54Z - MESSAGE  - Sim Pool 5       - Main           ]  [LineInsights] WAIT_OD rawIndices=2->3 count=3
+[2026-10-03 10:42:54Z - MESSAGE  - Sim Pool 5       - Main           ]  [LineInsights] WAIT_OD rawIndices=3->0 count=1
+[2026-10-03 10:42:54Z - MESSAGE  - Sim Pool 5       - Main           ]  [LineInsights] WAIT_OD rawIndices=4->0 count=1
+[2026-10-03 10:42:54Z - MESSAGE  - Sim Pool 5       - Main           ]  [LineInsights] STOP_COMPARE rawIndex=0 fromPersons=0 terminalList=0 terminalCount=0
+[2026-10-03 10:42:54Z - MESSAGE  - Sim Pool 5       - Main           ]  [LineInsights] STOP_COMPARE rawIndex=1 fromPersons=3 terminalList=3 terminalCount=3
+[2026-10-03 10:42:54Z - MESSAGE  - Sim Pool 5       - Main           ]  [LineInsights] STOP_COMPARE rawIndex=2 fromPersons=3 terminalList=3 terminalCount=3
+[2026-10-03 10:42:54Z - MESSAGE  - Sim Pool 5       - Main           ]  [LineInsights] STOP_COMPARE rawIndex=3 fromPersons=2 terminalList=2 terminalCount=2
+[2026-10-03 10:42:54Z - MESSAGE  - Sim Pool 5       - Main           ]  [LineInsights] STOP_COMPARE rawIndex=4 fromPersons=1 terminalList=1 terminalCount=1
+[2026-10-03 10:42:54Z - MESSAGE  - Sim Pool 5       - Main           ]  [LineInsights] VEHICLE entity=81353 stopIndex=0 state=1 passengers=4
+[2026-10-03 10:42:54Z - MESSAGE  - Sim Pool 5       - Main           ]  [LineInsights] VEHICLE entity=80974 stopIndex=3 state=1 passengers=6
+[2026-10-03 10:42:54Z - MESSAGE  - Sim Pool 5       - Main           ]  [LineInsights] VEHICLE entity=81321 stopIndex=4 state=1 passengers=6
+[2026-10-03 10:42:54Z - MESSAGE  - Sim Pool 5       - Main           ]  [LineInsights] VEHICLE entity=81039 stopIndex=2 state=1 passengers=6
+[2026-10-03 10:42:54Z - MESSAGE  - Sim Pool 5       - Main           ]  [LineInsights] VEHICLE entity=81479 stopIndex=1 state=1 passengers=2
+[2026-10-03 10:42:54Z - MESSAGE  - Sim Pool 5       - Main           ]  [LineInsights] END line=81576 valid=true persons=52 waiting=9 onboard=24 unassigned=19 vehicles=5 lineKind=person_usage_observed waitDuration=not_verified sectionOccupancy=unknown gameTime=25111400 gameTime0=25111400 updateCount=125557 tickCount=162466 speedup=0 millisPerDay=4000
+[2026-10-03 10:42:54Z - MESSAGE  - Sim Pool 5       - Main           ]  [LineInsights] BEGIN line=86553 name=Öl 1 componentNamespace=api.type.ComponentType gameTime=25111400 gameTime0=25111400 updateCount=125557 tickCount=162467 speedup=0 millisPerDay=4000
+[2026-10-03 10:42:54Z - MESSAGE  - Sim Pool 5       - Main           ]  [LineInsights] STOP tableIndex=1 stationGroup=120983 name=Biedenkopf Hafen station=0 terminal=0
+[2026-10-03 10:42:54Z - MESSAGE  - Sim Pool 5       - Main           ]  [LineInsights] STOP tableIndex=2 stationGroup=59724 name=Riedstadt Ölplattform station=0 terminal=1
+[2026-10-03 10:42:54Z - MESSAGE  - Sim Pool 5       - Main           ]  [LineInsights] STOP_COMPARE rawIndex=0 fromPersons=0 terminalList=0 terminalCount=0
+[2026-10-03 10:42:54Z - MESSAGE  - Sim Pool 5       - Main           ]  [LineInsights] STOP_COMPARE rawIndex=1 fromPersons=0 terminalList=0 terminalCount=0
+[2026-10-03 10:42:54Z - MESSAGE  - Sim Pool 5       - Main           ]  [LineInsights] VEHICLE entity=86611 stopIndex=1 state=1 passengers=0
+[2026-10-03 10:42:54Z - MESSAGE  - Sim Pool 5       - Main           ]  [LineInsights] VEHICLE entity=118033 stopIndex=0 state=1 passengers=0
+[2026-10-03 10:42:54Z - MESSAGE  - Sim Pool 5       - Main           ]  [LineInsights] END line=86553 valid=true persons=0 waiting=0 onboard=0 unassigned=0 vehicles=2 lineKind=unknown waitDuration=not_verified sectionOccupancy=unknown gameTime=25111400 gameTime0=25111400 updateCount=125557 tickCount=162467 speedup=0 millisPerDay=4000
+[2026-10-03 10:42:54Z - MESSAGE  - Sim Pool 4       - Main           ]  [LineInsights] BEGIN line=90647 name=Dahlewitz SB 1 componentNamespace=api.type.ComponentType gameTime=25111400 gameTime0=25111400 updateCount=125557 tickCount=162468 speedup=0 millisPerDay=4000
+[2026-10-03 10:42:54Z - MESSAGE  - Sim Pool 4       - Main           ]  [LineInsights] STOP tableIndex=1 stationGroup=90669 name=Kapellenweg station=0 terminal=0
+[2026-10-03 10:42:54Z - MESSAGE  - Sim Pool 4       - Main           ]  [LineInsights] STOP tableIndex=2 stationGroup=90698 name=Parkstrasse station=0 terminal=0
+[2026-10-03 10:42:54Z - MESSAGE  - Sim Pool 4       - Main           ]  [LineInsights] STOP tableIndex=3 stationGroup=90710 name=Finkenweg station=0 terminal=0
+[2026-10-03 10:42:54Z - MESSAGE  - Sim Pool 4       - Main           ]  [LineInsights] WAIT person=118772 line=90647 from=1 to=2 arrivalTime=24608200 vehicle=-1
+[2026-10-03 10:42:54Z - MESSAGE  - Sim Pool 4       - Main           ]  [LineInsights] WAIT person=60781 line=90647 from=1 to=2 arrivalTime=24852400 vehicle=-1
+[2026-10-03 10:42:54Z - MESSAGE  - Sim Pool 4       - Main           ]  [LineInsights] WAIT person=63933 line=90647 from=1 to=2 arrivalTime=24759800 vehicle=-1
+[2026-10-03 10:42:54Z - MESSAGE  - Sim Pool 4       - Main           ]  [LineInsights] WAIT person=79585 line=90647 from=1 to=2 arrivalTime=25018400 vehicle=-1
+[2026-10-03 10:42:54Z - MESSAGE  - Sim Pool 4       - Main           ]  [LineInsights] WAIT person=138623 line=90647 from=1 to=2 arrivalTime=24739600 vehicle=-1
+[2026-10-03 10:42:54Z - MESSAGE  - Sim Pool 4       - Main           ]  [LineInsights] WAIT person=113476 line=90647 from=1 to=0 arrivalTime=24621800 vehicle=-1
+[2026-10-03 10:42:54Z - MESSAGE  - Sim Pool 4       - Main           ]  [LineInsights] WAIT person=117929 line=90647 from=1 to=2 arrivalTime=24604000 vehicle=-1
+[2026-10-03 10:42:54Z - MESSAGE  - Sim Pool 4       - Main           ]  [LineInsights] WAIT person=59256 line=90647 from=1 to=2 arrivalTime=24560200 vehicle=-1
+[2026-10-03 10:42:54Z - MESSAGE  - Sim Pool 4       - Main           ]  [LineInsights] WAIT person=113075 line=90647 from=1 to=2 arrivalTime=24952400 vehicle=-1
+[2026-10-03 10:42:54Z - MESSAGE  - Sim Pool 4       - Main           ]  [LineInsights] WAIT person=106189 line=90647 from=1 to=2 arrivalTime=24735400 vehicle=-1
+[2026-10-03 10:42:54Z - MESSAGE  - Sim Pool 4       - Main           ]  [LineInsights] WAIT person=126380 line=90647 from=1 to=2 arrivalTime=24636400 vehicle=-1
+[2026-10-03 10:42:54Z - MESSAGE  - Sim Pool 4       - Main           ]  [LineInsights] WAIT person=140227 line=90647 from=1 to=0 arrivalTime=24813400 vehicle=-1
+[2026-10-03 10:42:54Z - MESSAGE  - Sim Pool 4       - Main           ]  [LineInsights] WAIT person=130458 line=90647 from=1 to=2 arrivalTime=24959600 vehicle=-1
+[2026-10-03 10:42:54Z - MESSAGE  - Sim Pool 4       - Main           ]  [LineInsights] WAIT person=127168 line=90647 from=1 to=2 arrivalTime=24629600 vehicle=-1
+[2026-10-03 10:42:54Z - MESSAGE  - Sim Pool 4       - Main           ]  [LineInsights] WAIT person=116954 line=90647 from=0 to=1 arrivalTime=25043600 vehicle=90645
+[2026-10-03 10:42:54Z - MESSAGE  - Sim Pool 4       - Main           ]  [LineInsights] WAIT person=116138 line=90647 from=1 to=2 arrivalTime=24551000 vehicle=-1
+[2026-10-03 10:42:54Z - MESSAGE  - Sim Pool 4       - Main           ]  [LineInsights] WAIT person=94705 line=90647 from=1 to=0 arrivalTime=24952000 vehicle=-1
+[2026-10-03 10:42:54Z - MESSAGE  - Sim Pool 4       - Main           ]  [LineInsights] WAIT person=79132 line=90647 from=1 to=2 arrivalTime=24998800 vehicle=-1
+[2026-10-03 10:42:54Z - MESSAGE  - Sim Pool 4       - Main           ]  [LineInsights] WAIT person=95846 line=90647 from=1 to=2 arrivalTime=25084200 vehicle=-1
+[2026-10-03 10:42:54Z - MESSAGE  - Sim Pool 4       - Main           ]  [LineInsights] WAIT person=93880 line=90647 from=1 to=2 arrivalTime=24555200 vehicle=-1
+[2026-10-03 10:42:54Z - MESSAGE  - Sim Pool 4       - Main           ]  [LineInsights] WAIT_OD rawIndices=2->1 count=1
+[2026-10-03 10:42:54Z - MESSAGE  - Sim Pool 4       - Main           ]  [LineInsights] WAIT_OD rawIndices=1->2 count=35
+[2026-10-03 10:42:54Z - MESSAGE  - Sim Pool 4       - Main           ]  [LineInsights] WAIT_OD rawIndices=0->1 count=2
+[2026-10-03 10:42:54Z - MESSAGE  - Sim Pool 4       - Main           ]  [LineInsights] WAIT_OD rawIndices=1->0 count=7
+[2026-10-03 10:42:54Z - MESSAGE  - Sim Pool 4       - Main           ]  [LineInsights] STOP_COMPARE rawIndex=0 fromPersons=2 terminalList=2 terminalCount=2
+[2026-10-03 10:42:54Z - MESSAGE  - Sim Pool 4       - Main           ]  [LineInsights] STOP_COMPARE rawIndex=1 fromPersons=42 terminalList=42 terminalCount=42
+[2026-10-03 10:42:54Z - MESSAGE  - Sim Pool 4       - Main           ]  [LineInsights] STOP_COMPARE rawIndex=2 fromPersons=1 terminalList=1 terminalCount=1
+[2026-10-03 10:42:54Z - MESSAGE  - Sim Pool 4       - Main           ]  [LineInsights] VEHICLE entity=90645 stopIndex=0 state=2 passengers=0
+[2026-10-03 10:42:54Z - MESSAGE  - Sim Pool 4       - Main           ]  [LineInsights] VEHICLE entity=100758 stopIndex=2 state=1 passengers=6
+[2026-10-03 10:42:54Z - MESSAGE  - Sim Pool 4       - Main           ]  [LineInsights] END line=90647 valid=true persons=57 waiting=45 onboard=6 unassigned=6 vehicles=2 lineKind=person_usage_observed waitDuration=not_verified sectionOccupancy=unknown gameTime=25111400 gameTime0=25111400 updateCount=125557 tickCount=162468 speedup=0 millisPerDay=4000
+[2026-10-03 10:42:54Z - MESSAGE  - Sim Pool 7       - Main           ]  [LineInsights] BEGIN line=92195 name=Linie 9 componentNamespace=api.type.ComponentType gameTime=25111400 gameTime0=25111400 updateCount=125557 tickCount=162469 speedup=0 millisPerDay=4000
+[2026-10-03 10:42:54Z - MESSAGE  - Sim Pool 7       - Main           ]  [LineInsights] STOP tableIndex=1 stationGroup=138203 name=Obertshausen Hafen #1 station=0 terminal=0
+[2026-10-03 10:42:54Z - MESSAGE  - Sim Pool 7       - Main           ]  [LineInsights] STOP tableIndex=2 stationGroup=111672 name=Obertshausen Station station=0 terminal=0
+[2026-10-03 10:42:54Z - MESSAGE  - Sim Pool 7       - Main           ]  [LineInsights] STOP_COMPARE rawIndex=0 fromPersons=0 terminalList=0 terminalCount=0
+[2026-10-03 10:42:54Z - MESSAGE  - Sim Pool 7       - Main           ]  [LineInsights] STOP_COMPARE rawIndex=1 fromPersons=0 terminalList=0 terminalCount=0
+[2026-10-03 10:42:54Z - MESSAGE  - Sim Pool 7       - Main           ]  [LineInsights] VEHICLE entity=89136 stopIndex=0 state=1 passengers=0
+[2026-10-03 10:42:54Z - MESSAGE  - Sim Pool 7       - Main           ]  [LineInsights] VEHICLE entity=141680 stopIndex=1 state=1 passengers=0
+[2026-10-03 10:42:54Z - MESSAGE  - Sim Pool 7       - Main           ]  [LineInsights] VEHICLE entity=132816 stopIndex=0 state=2 passengers=0
+[2026-10-03 10:42:54Z - MESSAGE  - Sim Pool 7       - Main           ]  [LineInsights] END line=92195 valid=true persons=0 waiting=0 onboard=0 unassigned=0 vehicles=3 lineKind=unknown waitDuration=not_verified sectionOccupancy=unknown gameTime=25111400 gameTime0=25111400 updateCount=125557 tickCount=162469 speedup=0 millisPerDay=4000
+[2026-10-03 10:42:55Z - MESSAGE  - Sim Pool 7       - Main           ]  [LineInsights] BEGIN line=94613 name=Öl 2 componentNamespace=api.type.ComponentType gameTime=25111400 gameTime0=25111400 updateCount=125557 tickCount=162470 speedup=0 millisPerDay=4000
+[2026-10-03 10:42:55Z - MESSAGE  - Sim Pool 7       - Main           ]  [LineInsights] STOP tableIndex=1 stationGroup=120983 name=Biedenkopf Hafen station=0 terminal=0
+[2026-10-03 10:42:55Z - MESSAGE  - Sim Pool 7       - Main           ]  [LineInsights] STOP tableIndex=2 stationGroup=115367 name=Biedenkopf Ölplattform station=0 terminal=1
+[2026-10-03 10:42:55Z - MESSAGE  - Sim Pool 7       - Main           ]  [LineInsights] STOP_COMPARE rawIndex=0 fromPersons=0 terminalList=0 terminalCount=0
+[2026-10-03 10:42:55Z - MESSAGE  - Sim Pool 7       - Main           ]  [LineInsights] STOP_COMPARE rawIndex=1 fromPersons=0 terminalList=0 terminalCount=0
+[2026-10-03 10:42:55Z - MESSAGE  - Sim Pool 7       - Main           ]  [LineInsights] VEHICLE entity=120989 stopIndex=0 state=1 passengers=0
+[2026-10-03 10:42:55Z - MESSAGE  - Sim Pool 7       - Main           ]  [LineInsights] VEHICLE entity=121593 stopIndex=1 state=1 passengers=0
+[2026-10-03 10:42:55Z - MESSAGE  - Sim Pool 7       - Main           ]  [LineInsights] END line=94613 valid=true persons=0 waiting=0 onboard=0 unassigned=0 vehicles=2 lineKind=unknown waitDuration=not_verified sectionOccupancy=unknown gameTime=25111400 gameTime0=25111400 updateCount=125557 tickCount=162470 speedup=0 millisPerDay=4000
+[2026-10-03 10:42:55Z - MESSAGE  - Sim Pool 5       - Main           ]  [LineInsights] BEGIN line=106056 name=Dahlewitz ->Bauernhof Obertshausen componentNamespace=api.type.ComponentType gameTime=25111400 gameTime0=25111400 updateCount=125557 tickCount=162471 speedup=0 millisPerDay=4000
+[2026-10-03 10:42:55Z - MESSAGE  - Sim Pool 5       - Main           ]  [LineInsights] STOP tableIndex=1 stationGroup=90698 name=Parkstrasse station=0 terminal=0
+[2026-10-03 10:42:55Z - MESSAGE  - Sim Pool 5       - Main           ]  [LineInsights] STOP tableIndex=2 stationGroup=59673 name=Obertshausen Bauernhof station=0 terminal=1
+[2026-10-03 10:42:55Z - MESSAGE  - Sim Pool 5       - Main           ]  [LineInsights] WAIT person=119572 line=106056 from=1 to=0 arrivalTime=25039600 vehicle=-1
+[2026-10-03 10:42:55Z - MESSAGE  - Sim Pool 5       - Main           ]  [LineInsights] WAIT person=99938 line=106056 from=0 to=1 arrivalTime=25062000 vehicle=-1
+[2026-10-03 10:42:55Z - MESSAGE  - Sim Pool 5       - Main           ]  [LineInsights] WAIT person=125370 line=106056 from=0 to=1 arrivalTime=25084600 vehicle=-1
+[2026-10-03 10:42:55Z - MESSAGE  - Sim Pool 5       - Main           ]  [LineInsights] WAIT person=93028 line=106056 from=1 to=0 arrivalTime=24874800 vehicle=-1
+[2026-10-03 10:42:55Z - MESSAGE  - Sim Pool 5       - Main           ]  [LineInsights] WAIT person=98438 line=106056 from=1 to=0 arrivalTime=24912400 vehicle=-1
+[2026-10-03 10:42:55Z - MESSAGE  - Sim Pool 5       - Main           ]  [LineInsights] WAIT_OD rawIndices=1->0 count=3
+[2026-10-03 10:42:55Z - MESSAGE  - Sim Pool 5       - Main           ]  [LineInsights] WAIT_OD rawIndices=0->1 count=2
+[2026-10-03 10:42:55Z - MESSAGE  - Sim Pool 5       - Main           ]  [LineInsights] STOP_COMPARE rawIndex=0 fromPersons=2 terminalList=2 terminalCount=2
+[2026-10-03 10:42:55Z - MESSAGE  - Sim Pool 5       - Main           ]  [LineInsights] STOP_COMPARE rawIndex=1 fromPersons=3 terminalList=3 terminalCount=3
+[2026-10-03 10:42:55Z - MESSAGE  - Sim Pool 5       - Main           ]  [LineInsights] VEHICLE entity=110726 stopIndex=0 state=1 passengers=2
+[2026-10-03 10:42:55Z - MESSAGE  - Sim Pool 5       - Main           ]  [LineInsights] VEHICLE entity=110725 stopIndex=0 state=1 passengers=1
+[2026-10-03 10:42:55Z - MESSAGE  - Sim Pool 5       - Main           ]  [LineInsights] VEHICLE entity=90650 stopIndex=1 state=1 passengers=1
+[2026-10-03 10:42:55Z - MESSAGE  - Sim Pool 5       - Main           ]  [LineInsights] VEHICLE entity=90646 stopIndex=1 state=1 passengers=4
+[2026-10-03 10:42:55Z - MESSAGE  - Sim Pool 5       - Main           ]  [LineInsights] END line=106056 valid=true persons=13 waiting=5 onboard=8 unassigned=0 vehicles=4 lineKind=person_usage_observed waitDuration=not_verified sectionOccupancy=unknown gameTime=25111400 gameTime0=25111400 updateCount=125557 tickCount=162471 speedup=0 millisPerDay=4000
+[2026-10-03 10:42:55Z - MESSAGE  - Sim Pool 6       - Main           ]  [LineInsights] BEGIN line=108388 name=Obertshausen SB 2 componentNamespace=api.type.ComponentType gameTime=25111400 gameTime0=25111400 updateCount=125557 tickCount=162472 speedup=0 millisPerDay=4000
+[2026-10-03 10:42:55Z - MESSAGE  - Sim Pool 6       - Main           ]  [LineInsights] STOP tableIndex=1 stationGroup=119226 name=Obertshausen Hafen station=0 terminal=1
+[2026-10-03 10:42:55Z - MESSAGE  - Sim Pool 6       - Main           ]  [LineInsights] STOP tableIndex=2 stationGroup=91122 name=Kirchplatz station=0 terminal=0
+[2026-10-03 10:42:55Z - MESSAGE  - Sim Pool 6       - Main           ]  [LineInsights] STOP tableIndex=3 stationGroup=91088 name=Kastanienweg station=0 terminal=0
+[2026-10-03 10:42:55Z - MESSAGE  - Sim Pool 6       - Main           ]  [LineInsights] STOP tableIndex=4 stationGroup=91106 name=Raiffeisenstrasse station=0 terminal=0
+[2026-10-03 10:42:55Z - MESSAGE  - Sim Pool 6       - Main           ]  [LineInsights] WAIT person=105712 line=108388 from=0 to=2 arrivalTime=25002400 vehicle=-1
+[2026-10-03 10:42:55Z - MESSAGE  - Sim Pool 6       - Main           ]  [LineInsights] WAIT person=139420 line=108388 from=2 to=3 arrivalTime=25095200 vehicle=-1
+[2026-10-03 10:42:55Z - MESSAGE  - Sim Pool 6       - Main           ]  [LineInsights] WAIT person=93275 line=108388 from=1 to=3 arrivalTime=25105000 vehicle=-1
+[2026-10-03 10:42:55Z - MESSAGE  - Sim Pool 6       - Main           ]  [LineInsights] UNASSIGNED person=141082 reason=no_matching_terminal_or_vehicle
+[2026-10-03 10:42:55Z - MESSAGE  - Sim Pool 6       - Main           ]  [LineInsights] UNASSIGNED person=144048 reason=no_matching_terminal_or_vehicle
+[2026-10-03 10:42:55Z - MESSAGE  - Sim Pool 6       - Main           ]  [LineInsights] UNASSIGNED person=98487 reason=no_matching_terminal_or_vehicle
+[2026-10-03 10:42:55Z - MESSAGE  - Sim Pool 6       - Main           ]  [LineInsights] UNASSIGNED person=122996 reason=no_matching_terminal_or_vehicle
+[2026-10-03 10:42:55Z - MESSAGE  - Sim Pool 6       - Main           ]  [LineInsights] UNASSIGNED person=126546 reason=no_matching_terminal_or_vehicle
+[2026-10-03 10:42:55Z - MESSAGE  - Sim Pool 6       - Main           ]  [LineInsights] WAIT person=63650 line=108388 from=2 to=3 arrivalTime=25098000 vehicle=-1
+[2026-10-03 10:42:55Z - MESSAGE  - Sim Pool 6       - Main           ]  [LineInsights] UNASSIGNED person=106233 reason=no_matching_terminal_or_vehicle
+[2026-10-03 10:42:55Z - MESSAGE  - Sim Pool 6       - Main           ]  [LineInsights] WAIT_OD rawIndices=1->3 count=1
+[2026-10-03 10:42:55Z - MESSAGE  - Sim Pool 6       - Main           ]  [LineInsights] WAIT_OD rawIndices=0->2 count=1
+[2026-10-03 10:42:55Z - MESSAGE  - Sim Pool 6       - Main           ]  [LineInsights] WAIT_OD rawIndices=2->3 count=2
+[2026-10-03 10:42:55Z - MESSAGE  - Sim Pool 6       - Main           ]  [LineInsights] STOP_COMPARE rawIndex=0 fromPersons=1 terminalList=1 terminalCount=1
+[2026-10-03 10:42:55Z - MESSAGE  - Sim Pool 6       - Main           ]  [LineInsights] STOP_COMPARE rawIndex=1 fromPersons=1 terminalList=1 terminalCount=1
+[2026-10-03 10:42:55Z - MESSAGE  - Sim Pool 6       - Main           ]  [LineInsights] STOP_COMPARE rawIndex=2 fromPersons=2 terminalList=2 terminalCount=2
+[2026-10-03 10:42:55Z - MESSAGE  - Sim Pool 6       - Main           ]  [LineInsights] STOP_COMPARE rawIndex=3 fromPersons=0 terminalList=0 terminalCount=0
+[2026-10-03 10:42:55Z - MESSAGE  - Sim Pool 6       - Main           ]  [LineInsights] VEHICLE entity=80352 stopIndex=2 state=1 passengers=6
+[2026-10-03 10:42:55Z - MESSAGE  - Sim Pool 6       - Main           ]  [LineInsights] VEHICLE entity=105736 stopIndex=0 state=1 passengers=1
+[2026-10-03 10:42:55Z - MESSAGE  - Sim Pool 6       - Main           ]  [LineInsights] VEHICLE entity=80476 stopIndex=3 state=1 passengers=2
+[2026-10-03 10:42:55Z - MESSAGE  - Sim Pool 6       - Main           ]  [LineInsights] END line=108388 valid=true persons=19 waiting=4 onboard=9 unassigned=6 vehicles=3 lineKind=person_usage_observed waitDuration=not_verified sectionOccupancy=unknown gameTime=25111400 gameTime0=25111400 updateCount=125557 tickCount=162472 speedup=0 millisPerDay=4000
+[2026-10-03 10:42:55Z - MESSAGE  - Sim Pool 4       - Main           ]  [LineInsights] BEGIN line=110810 name=Linie 1 componentNamespace=api.type.ComponentType gameTime=25111400 gameTime0=25111400 updateCount=125557 tickCount=162473 speedup=0 millisPerDay=4000
+[2026-10-03 10:42:55Z - MESSAGE  - Sim Pool 4       - Main           ]  [LineInsights] STOP tableIndex=1 stationGroup=120983 name=Biedenkopf Hafen station=0 terminal=0
+[2026-10-03 10:42:55Z - MESSAGE  - Sim Pool 4       - Main           ]  [LineInsights] STOP tableIndex=2 stationGroup=122341 name=Obertshausen Hafen station=0 terminal=0
+[2026-10-03 10:42:55Z - MESSAGE  - Sim Pool 4       - Main           ]  [LineInsights] STOP tableIndex=3 stationGroup=115367 name=Biedenkopf Ölplattform station=0 terminal=0
+[2026-10-03 10:42:55Z - MESSAGE  - Sim Pool 4       - Main           ]  [LineInsights] WAIT person=118633 line=110810 from=1 to=2 arrivalTime=24822000 vehicle=-1
+[2026-10-03 10:42:55Z - MESSAGE  - Sim Pool 4       - Main           ]  [LineInsights] WAIT person=144199 line=110810 from=1 to=2 arrivalTime=24693600 vehicle=-1
+[2026-10-03 10:42:55Z - MESSAGE  - Sim Pool 4       - Main           ]  [LineInsights] WAIT person=143454 line=110810 from=1 to=2 arrivalTime=24692000 vehicle=-1
+[2026-10-03 10:42:55Z - MESSAGE  - Sim Pool 4       - Main           ]  [LineInsights] WAIT person=135042 line=110810 from=1 to=2 arrivalTime=24822200 vehicle=-1
+[2026-10-03 10:42:55Z - MESSAGE  - Sim Pool 4       - Main           ]  [LineInsights] WAIT person=122396 line=110810 from=1 to=2 arrivalTime=24692200 vehicle=-1
+[2026-10-03 10:42:55Z - MESSAGE  - Sim Pool 4       - Main           ]  [LineInsights] WAIT person=115292 line=110810 from=1 to=2 arrivalTime=25091000 vehicle=-1
+[2026-10-03 10:42:55Z - MESSAGE  - Sim Pool 4       - Main           ]  [LineInsights] WAIT_OD rawIndices=1->2 count=6
+[2026-10-03 10:42:55Z - MESSAGE  - Sim Pool 4       - Main           ]  [LineInsights] STOP_COMPARE rawIndex=0 fromPersons=0 terminalList=0 terminalCount=0
+[2026-10-03 10:42:55Z - MESSAGE  - Sim Pool 4       - Main           ]  [LineInsights] STOP_COMPARE rawIndex=1 fromPersons=6 terminalList=6 terminalCount=6
+[2026-10-03 10:42:55Z - MESSAGE  - Sim Pool 4       - Main           ]  [LineInsights] STOP_COMPARE rawIndex=2 fromPersons=0 terminalList=0 terminalCount=0
+[2026-10-03 10:42:55Z - MESSAGE  - Sim Pool 4       - Main           ]  [LineInsights] VEHICLE entity=125231 stopIndex=1 state=1 passengers=0
+[2026-10-03 10:42:55Z - MESSAGE  - Sim Pool 4       - Main           ]  [LineInsights] VEHICLE entity=127601 stopIndex=1 state=1 passengers=0
+[2026-10-03 10:42:55Z - MESSAGE  - Sim Pool 4       - Main           ]  [LineInsights] END line=110810 valid=true persons=6 waiting=6 onboard=0 unassigned=0 vehicles=2 lineKind=person_usage_observed waitDuration=not_verified sectionOccupancy=unknown gameTime=25111400 gameTime0=25111400 updateCount=125557 tickCount=162473 speedup=0 millisPerDay=4000
+[2026-10-03 10:42:55Z - MESSAGE  - Sim Pool 4       - Main           ]  [LineInsights] BEGIN line=121618 name=Personen Obertshausen -> Öl componentNamespace=api.type.ComponentType gameTime=25111400 gameTime0=25111400 updateCount=125557 tickCount=162474 speedup=0 millisPerDay=4000
+[2026-10-03 10:42:55Z - MESSAGE  - Sim Pool 4       - Main           ]  [LineInsights] STOP tableIndex=1 stationGroup=122341 name=Obertshausen Hafen station=0 terminal=0
+[2026-10-03 10:42:55Z - MESSAGE  - Sim Pool 4       - Main           ]  [LineInsights] STOP tableIndex=2 stationGroup=59724 name=Riedstadt Ölplattform station=0 terminal=0
+[2026-10-03 10:42:55Z - MESSAGE  - Sim Pool 4       - Main           ]  [LineInsights] WAIT person=81063 line=121618 from=1 to=0 arrivalTime=24182800 vehicle=-1
+[2026-10-03 10:42:55Z - MESSAGE  - Sim Pool 4       - Main           ]  [LineInsights] WAIT person=136959 line=121618 from=1 to=0 arrivalTime=24168800 vehicle=-1
+[2026-10-03 10:42:55Z - MESSAGE  - Sim Pool 4       - Main           ]  [LineInsights] WAIT person=122722 line=121618 from=1 to=0 arrivalTime=24189600 vehicle=-1
+[2026-10-03 10:42:55Z - MESSAGE  - Sim Pool 4       - Main           ]  [LineInsights] WAIT person=137716 line=121618 from=1 to=0 arrivalTime=24408400 vehicle=-3
+[2026-10-03 10:42:55Z - MESSAGE  - Sim Pool 4       - Main           ]  [LineInsights] WAIT person=112436 line=121618 from=0 to=1 arrivalTime=24805000 vehicle=-1
+[2026-10-03 10:42:55Z - MESSAGE  - Sim Pool 4       - Main           ]  [LineInsights] WAIT person=126499 line=121618 from=1 to=0 arrivalTime=24412400 vehicle=-3
+[2026-10-03 10:42:55Z - MESSAGE  - Sim Pool 4       - Main           ]  [LineInsights] WAIT person=140604 line=121618 from=1 to=0 arrivalTime=24374400 vehicle=-1
+[2026-10-03 10:42:55Z - MESSAGE  - Sim Pool 4       - Main           ]  [LineInsights] WAIT_OD rawIndices=1->0 count=6
+[2026-10-03 10:42:55Z - MESSAGE  - Sim Pool 4       - Main           ]  [LineInsights] WAIT_OD rawIndices=0->1 count=1
+[2026-10-03 10:42:55Z - MESSAGE  - Sim Pool 4       - Main           ]  [LineInsights] STOP_COMPARE rawIndex=0 fromPersons=1 terminalList=1 terminalCount=1
+[2026-10-03 10:42:55Z - MESSAGE  - Sim Pool 4       - Main           ]  [LineInsights] STOP_COMPARE rawIndex=1 fromPersons=6 terminalList=6 terminalCount=6
+[2026-10-03 10:42:55Z - MESSAGE  - Sim Pool 4       - Main           ]  [LineInsights] VEHICLE entity=118723 stopIndex=1 state=1 passengers=2
+[2026-10-03 10:42:55Z - MESSAGE  - Sim Pool 4       - Main           ]  [LineInsights] END line=121618 valid=true persons=9 waiting=7 onboard=2 unassigned=0 vehicles=1 lineKind=person_usage_observed waitDuration=not_verified sectionOccupancy=unknown gameTime=25111400 gameTime0=25111400 updateCount=125557 tickCount=162474 speedup=0 millisPerDay=4000
+[2026-10-03 10:42:56Z - MESSAGE  - Sim Pool 6       - Main           ]  [LineInsights] BEGIN line=121745 name=Benzin -> Hafen componentNamespace=api.type.ComponentType gameTime=25111400 gameTime0=25111400 updateCount=125557 tickCount=162475 speedup=0 millisPerDay=4000
+[2026-10-03 10:42:56Z - MESSAGE  - Sim Pool 6       - Main           ]  [LineInsights] STOP tableIndex=1 stationGroup=121012 name=Biedenkopf Station station=0 terminal=0
+[2026-10-03 10:42:56Z - MESSAGE  - Sim Pool 6       - Main           ]  [LineInsights] STOP tableIndex=2 stationGroup=121739 name=Straubing Station station=0 terminal=1
+[2026-10-03 10:42:56Z - MESSAGE  - Sim Pool 6       - Main           ]  [LineInsights] STOP_COMPARE rawIndex=0 fromPersons=0 terminalList=0 terminalCount=0
+[2026-10-03 10:42:56Z - MESSAGE  - Sim Pool 6       - Main           ]  [LineInsights] STOP_COMPARE rawIndex=1 fromPersons=0 terminalList=0 terminalCount=0
+[2026-10-03 10:42:56Z - MESSAGE  - Sim Pool 6       - Main           ]  [LineInsights] VEHICLE entity=132832 stopIndex=1 state=1 passengers=0
+[2026-10-03 10:42:56Z - MESSAGE  - Sim Pool 6       - Main           ]  [LineInsights] VEHICLE entity=132380 stopIndex=0 state=1 passengers=0
+[2026-10-03 10:42:56Z - MESSAGE  - Sim Pool 6       - Main           ]  [LineInsights] VEHICLE entity=130517 stopIndex=0 state=1 passengers=0
+[2026-10-03 10:42:56Z - MESSAGE  - Sim Pool 6       - Main           ]  [LineInsights] VEHICLE entity=129011 stopIndex=0 state=1 passengers=0
+[2026-10-03 10:42:56Z - MESSAGE  - Sim Pool 6       - Main           ]  [LineInsights] VEHICLE entity=127379 stopIndex=1 state=1 passengers=0
+[2026-10-03 10:42:56Z - MESSAGE  - Sim Pool 6       - Main           ]  [LineInsights] VEHICLE entity=123775 stopIndex=1 state=1 passengers=0
+[2026-10-03 10:42:56Z - MESSAGE  - Sim Pool 6       - Main           ]  [LineInsights] VEHICLE entity=123536 stopIndex=1 state=1 passengers=0
+[2026-10-03 10:42:56Z - MESSAGE  - Sim Pool 6       - Main           ]  [LineInsights] VEHICLE entity=121744 stopIndex=0 state=1 passengers=0
+[2026-10-03 10:42:56Z - MESSAGE  - Sim Pool 6       - Main           ]  [LineInsights] VEHICLE entity=121743 stopIndex=0 state=1 passengers=0
+[2026-10-03 10:42:56Z - MESSAGE  - Sim Pool 6       - Main           ]  [LineInsights] VEHICLE entity=121742 stopIndex=0 state=1 passengers=0
+[2026-10-03 10:42:56Z - MESSAGE  - Sim Pool 6       - Main           ]  [LineInsights] VEHICLE entity=120406 stopIndex=0 state=1 passengers=0
+[2026-10-03 10:42:56Z - MESSAGE  - Sim Pool 6       - Main           ]  [LineInsights] VEHICLE entity=25963 stopIndex=0 state=1 passengers=0
+[2026-10-03 10:42:56Z - MESSAGE  - Sim Pool 6       - Main           ]  [LineInsights] VEHICLE entity=63988 stopIndex=1 state=1 passengers=0
+[2026-10-03 10:42:56Z - MESSAGE  - Sim Pool 6       - Main           ]  [LineInsights] VEHICLE entity=132228 stopIndex=0 state=1 passengers=0
+[2026-10-03 10:42:56Z - MESSAGE  - Sim Pool 6       - Main           ]  [LineInsights] VEHICLE entity=132833 stopIndex=1 state=1 passengers=0
+[2026-10-03 10:42:56Z - MESSAGE  - Sim Pool 6       - Main           ]  [LineInsights] VEHICLE entity=60793 stopIndex=1 state=1 passengers=0
+[2026-10-03 10:42:56Z - MESSAGE  - Sim Pool 6       - Main           ]  [LineInsights] VEHICLE entity=132315 stopIndex=1 state=2 passengers=0
+[2026-10-03 10:42:56Z - MESSAGE  - Sim Pool 6       - Main           ]  [LineInsights] VEHICLE entity=109173 stopIndex=1 state=1 passengers=0
+[2026-10-03 10:42:56Z - MESSAGE  - Sim Pool 6       - Main           ]  [LineInsights] VEHICLE entity=89023 stopIndex=1 state=1 passengers=0
+[2026-10-03 10:42:56Z - MESSAGE  - Sim Pool 6       - Main           ]  [LineInsights] VEHICLE entity=90019 stopIndex=1 state=1 passengers=0
+[2026-10-03 10:42:56Z - MESSAGE  - Sim Pool 6       - Main           ]  [LineInsights] VEHICLE entity=125401 stopIndex=1 state=1 passengers=0
+[2026-10-03 10:42:56Z - MESSAGE  - Sim Pool 6       - Main           ]  [LineInsights] VEHICLE entity=121831 stopIndex=0 state=1 passengers=0
+[2026-10-03 10:42:56Z - MESSAGE  - Sim Pool 6       - Main           ]  [LineInsights] VEHICLE entity=91084 stopIndex=1 state=1 passengers=0
+[2026-10-03 10:42:56Z - MESSAGE  - Sim Pool 6       - Main           ]  [LineInsights] VEHICLE entity=129283 stopIndex=1 state=2 passengers=0
+[2026-10-03 10:42:56Z - MESSAGE  - Sim Pool 6       - Main           ]  [LineInsights] VEHICLE entity=128642 stopIndex=1 state=2 passengers=0
+[2026-10-03 10:42:56Z - MESSAGE  - Sim Pool 6       - Main           ]  [LineInsights] VEHICLE entity=132330 stopIndex=1 state=1 passengers=0
+[2026-10-03 10:42:56Z - MESSAGE  - Sim Pool 6       - Main           ]  [LineInsights] VEHICLE entity=63873 stopIndex=1 state=1 passengers=0
+[2026-10-03 10:42:56Z - MESSAGE  - Sim Pool 6       - Main           ]  [LineInsights] END line=121745 valid=true persons=0 waiting=0 onboard=0 unassigned=0 vehicles=27 lineKind=unknown waitDuration=not_verified sectionOccupancy=unknown gameTime=25111400 gameTime0=25111400 updateCount=125557 tickCount=162475 speedup=0 millisPerDay=4000
+[2026-10-03 10:42:56Z - MESSAGE  - Sim Pool 6       - Main           ]  [LineInsights] BEGIN line=122730 name=Linie 5 componentNamespace=api.type.ComponentType gameTime=25111400 gameTime0=25111400 updateCount=125557 tickCount=162476 speedup=0 millisPerDay=4000
+[2026-10-03 10:42:56Z - MESSAGE  - Sim Pool 6       - Main           ]  [LineInsights] STOP tableIndex=1 stationGroup=121012 name=Biedenkopf Station station=0 terminal=3
+[2026-10-03 10:42:56Z - MESSAGE  - Sim Pool 6       - Main           ]  [LineInsights] STOP tableIndex=2 stationGroup=121739 name=Straubing Station station=0 terminal=2
+[2026-10-03 10:42:56Z - MESSAGE  - Sim Pool 6       - Main           ]  [LineInsights] STOP_COMPARE rawIndex=0 fromPersons=0 terminalList=0 terminalCount=0
+[2026-10-03 10:42:56Z - MESSAGE  - Sim Pool 6       - Main           ]  [LineInsights] STOP_COMPARE rawIndex=1 fromPersons=0 terminalList=0 terminalCount=0
+[2026-10-03 10:42:56Z - MESSAGE  - Sim Pool 6       - Main           ]  [LineInsights] VEHICLE entity=123585 stopIndex=1 state=1 passengers=0
+[2026-10-03 10:42:56Z - MESSAGE  - Sim Pool 6       - Main           ]  [LineInsights] VEHICLE entity=104514 stopIndex=1 state=1 passengers=0
+[2026-10-03 10:42:56Z - MESSAGE  - Sim Pool 6       - Main           ]  [LineInsights] VEHICLE entity=113506 stopIndex=1 state=1 passengers=0
+[2026-10-03 10:42:56Z - MESSAGE  - Sim Pool 6       - Main           ]  [LineInsights] VEHICLE entity=115072 stopIndex=0 state=1 passengers=0
+[2026-10-03 10:42:56Z - MESSAGE  - Sim Pool 6       - Main           ]  [LineInsights] END line=122730 valid=true persons=0 waiting=0 onboard=0 unassigned=0 vehicles=4 lineKind=unknown waitDuration=not_verified sectionOccupancy=unknown gameTime=25111400 gameTime0=25111400 updateCount=125557 tickCount=162476 speedup=0 millisPerDay=4000
+[2026-10-03 10:42:56Z - MESSAGE  - Sim Pool 5       - Main           ]  [LineInsights] BEGIN line=127044 name=Benzin -> Obertshausen componentNamespace=api.type.ComponentType gameTime=25111400 gameTime0=25111400 updateCount=125557 tickCount=162477 speedup=0 millisPerDay=4000
+[2026-10-03 10:42:56Z - MESSAGE  - Sim Pool 5       - Main           ]  [LineInsights] STOP tableIndex=1 stationGroup=120983 name=Biedenkopf Hafen station=0 terminal=1
+[2026-10-03 10:42:56Z - MESSAGE  - Sim Pool 5       - Main           ]  [LineInsights] STOP tableIndex=2 stationGroup=122341 name=Obertshausen Hafen station=0 terminal=0
+[2026-10-03 10:42:56Z - MESSAGE  - Sim Pool 5       - Main           ]  [LineInsights] STOP_COMPARE rawIndex=0 fromPersons=0 terminalList=0 terminalCount=0
+[2026-10-03 10:42:56Z - MESSAGE  - Sim Pool 5       - Main           ]  [LineInsights] STOP_COMPARE rawIndex=1 fromPersons=0 terminalList=0 terminalCount=0
+[2026-10-03 10:42:56Z - MESSAGE  - Sim Pool 5       - Main           ]  [LineInsights] VEHICLE entity=139258 stopIndex=0 state=1 passengers=2
+[2026-10-03 10:42:56Z - MESSAGE  - Sim Pool 5       - Main           ]  [LineInsights] VEHICLE entity=138311 stopIndex=1 state=1 passengers=0
+[2026-10-03 10:42:56Z - MESSAGE  - Sim Pool 5       - Main           ]  [LineInsights] VEHICLE entity=137069 stopIndex=1 state=1 passengers=0
+[2026-10-03 10:42:56Z - MESSAGE  - Sim Pool 5       - Main           ]  [LineInsights] VEHICLE entity=136843 stopIndex=0 state=1 passengers=1
+[2026-10-03 10:42:56Z - MESSAGE  - Sim Pool 5       - Main           ]  [LineInsights] VEHICLE entity=108010 stopIndex=1 state=1 passengers=0
+[2026-10-03 10:42:56Z - MESSAGE  - Sim Pool 5       - Main           ]  [LineInsights] VEHICLE entity=138283 stopIndex=1 state=1 passengers=0
+[2026-10-03 10:42:56Z - MESSAGE  - Sim Pool 5       - Main           ]  [LineInsights] END line=127044 valid=true persons=3 waiting=0 onboard=3 unassigned=0 vehicles=6 lineKind=person_usage_observed waitDuration=not_verified sectionOccupancy=unknown gameTime=25111400 gameTime0=25111400 updateCount=125557 tickCount=162477 speedup=0 millisPerDay=4000
+[2026-10-03 10:42:56Z - MESSAGE  - Sim Pool 7       - Main           ]  [LineInsights] BEGIN line=128661 name=Linie 6 componentNamespace=api.type.ComponentType gameTime=25111400 gameTime0=25111400 updateCount=125557 tickCount=162478 speedup=0 millisPerDay=4000
+[2026-10-03 10:42:56Z - MESSAGE  - Sim Pool 7       - Main           ]  [LineInsights] STOP tableIndex=1 stationGroup=111672 name=Obertshausen Station station=0 terminal=0
+[2026-10-03 10:42:56Z - MESSAGE  - Sim Pool 7       - Main           ]  [LineInsights] STOP tableIndex=2 stationGroup=128180 name=Obertshausen Station Umstieg station=0 terminal=0
+[2026-10-03 10:42:56Z - MESSAGE  - Sim Pool 7       - Main           ]  [LineInsights] STOP_COMPARE rawIndex=0 fromPersons=0 terminalList=0 terminalCount=0
+[2026-10-03 10:42:56Z - MESSAGE  - Sim Pool 7       - Main           ]  [LineInsights] STOP_COMPARE rawIndex=1 fromPersons=0 terminalList=0 terminalCount=0
+[2026-10-03 10:42:56Z - MESSAGE  - Sim Pool 7       - Main           ]  [LineInsights] VEHICLE entity=132511 stopIndex=1 state=1 passengers=0
+[2026-10-03 10:42:56Z - MESSAGE  - Sim Pool 7       - Main           ]  [LineInsights] VEHICLE entity=91252 stopIndex=0 state=1 passengers=0
+[2026-10-03 10:42:56Z - MESSAGE  - Sim Pool 7       - Main           ]  [LineInsights] VEHICLE entity=111677 stopIndex=1 state=1 passengers=0
+[2026-10-03 10:42:56Z - MESSAGE  - Sim Pool 7       - Main           ]  [LineInsights] VEHICLE entity=137059 stopIndex=0 state=1 passengers=0
+[2026-10-03 10:42:56Z - MESSAGE  - Sim Pool 7       - Main           ]  [LineInsights] VEHICLE entity=109236 stopIndex=0 state=1 passengers=0
+[2026-10-03 10:42:56Z - MESSAGE  - Sim Pool 7       - Main           ]  [LineInsights] VEHICLE entity=141238 stopIndex=0 state=1 passengers=0
+[2026-10-03 10:42:56Z - MESSAGE  - Sim Pool 7       - Main           ]  [LineInsights] VEHICLE entity=136807 stopIndex=1 state=1 passengers=0
+[2026-10-03 10:42:56Z - MESSAGE  - Sim Pool 7       - Main           ]  [LineInsights] VEHICLE entity=124700 stopIndex=1 state=1 passengers=0
+[2026-10-03 10:42:56Z - MESSAGE  - Sim Pool 7       - Main           ]  [LineInsights] END line=128661 valid=true persons=0 waiting=0 onboard=0 unassigned=0 vehicles=8 lineKind=unknown waitDuration=not_verified sectionOccupancy=unknown gameTime=25111400 gameTime0=25111400 updateCount=125557 tickCount=162478 speedup=0 millisPerDay=4000
+[2026-10-03 10:42:56Z - MESSAGE  - Sim Pool 5       - Main           ]  [LineInsights] BEGIN line=130557 name=Linie 2 componentNamespace=api.type.ComponentType gameTime=25111400 gameTime0=25111400 updateCount=125557 tickCount=162479 speedup=0 millisPerDay=4000
+[2026-10-03 10:42:56Z - MESSAGE  - Sim Pool 5       - Main           ]  [LineInsights] STOP tableIndex=1 stationGroup=121012 name=Biedenkopf Station station=0 terminal=1
+[2026-10-03 10:42:56Z - MESSAGE  - Sim Pool 5       - Main           ]  [LineInsights] STOP tableIndex=2 stationGroup=99374 name=Dahlewitz Station Abstellgleis station=0 terminal=4
+[2026-10-03 10:42:56Z - MESSAGE  - Sim Pool 5       - Main           ]  [LineInsights] STOP_COMPARE rawIndex=0 fromPersons=0 terminalList=0 terminalCount=0
+[2026-10-03 10:42:56Z - MESSAGE  - Sim Pool 5       - Main           ]  [LineInsights] STOP_COMPARE rawIndex=1 fromPersons=0 terminalList=0 terminalCount=0
+[2026-10-03 10:42:56Z - MESSAGE  - Sim Pool 5       - Main           ]  [LineInsights] VEHICLE entity=131352 stopIndex=1 state=1 passengers=0
+[2026-10-03 10:42:56Z - MESSAGE  - Sim Pool 5       - Main           ]  [LineInsights] VEHICLE entity=130500 stopIndex=1 state=1 passengers=0
+[2026-10-03 10:42:56Z - MESSAGE  - Sim Pool 5       - Main           ]  [LineInsights] VEHICLE entity=125427 stopIndex=1 state=1 passengers=0
+[2026-10-03 10:42:56Z - MESSAGE  - Sim Pool 5       - Main           ]  [LineInsights] VEHICLE entity=40994 stopIndex=1 state=1 passengers=0
+[2026-10-03 10:42:56Z - MESSAGE  - Sim Pool 5       - Main           ]  [LineInsights] VEHICLE entity=131977 stopIndex=1 state=1 passengers=0
+[2026-10-03 10:42:56Z - MESSAGE  - Sim Pool 5       - Main           ]  [LineInsights] END line=130557 valid=true persons=0 waiting=0 onboard=0 unassigned=0 vehicles=5 lineKind=unknown waitDuration=not_verified sectionOccupancy=unknown gameTime=25111400 gameTime0=25111400 updateCount=125557 tickCount=162479 speedup=0 millisPerDay=4000
+[2026-10-03 10:42:57Z - MESSAGE  - Sim Pool 1       - Main           ]  [LineInsights] BEGIN line=131995 name=Linie 8 componentNamespace=api.type.ComponentType gameTime=25111400 gameTime0=25111400 updateCount=125557 tickCount=162480 speedup=0 millisPerDay=4000
+[2026-10-03 10:42:57Z - MESSAGE  - Sim Pool 1       - Main           ]  [LineInsights] STOP tableIndex=1 stationGroup=120983 name=Biedenkopf Hafen station=0 terminal=1
+[2026-10-03 10:42:57Z - MESSAGE  - Sim Pool 1       - Main           ]  [LineInsights] STOP tableIndex=2 stationGroup=139378 name=Obertshausen Hafen #1 station=0 terminal=0
+[2026-10-03 10:42:57Z - MESSAGE  - Sim Pool 1       - Main           ]  [LineInsights] STOP_COMPARE rawIndex=0 fromPersons=0 terminalList=0 terminalCount=0
+[2026-10-03 10:42:57Z - MESSAGE  - Sim Pool 1       - Main           ]  [LineInsights] STOP_COMPARE rawIndex=1 fromPersons=0 terminalList=0 terminalCount=0
+[2026-10-03 10:42:57Z - MESSAGE  - Sim Pool 1       - Main           ]  [LineInsights] VEHICLE entity=134983 stopIndex=1 state=1 passengers=0
+[2026-10-03 10:42:57Z - MESSAGE  - Sim Pool 1       - Main           ]  [LineInsights] VEHICLE entity=139200 stopIndex=1 state=1 passengers=0
+[2026-10-03 10:42:57Z - MESSAGE  - Sim Pool 1       - Main           ]  [LineInsights] VEHICLE entity=142897 stopIndex=0 state=1 passengers=0
+[2026-10-03 10:42:57Z - MESSAGE  - Sim Pool 1       - Main           ]  [LineInsights] VEHICLE entity=100513 stopIndex=0 state=1 passengers=0
+[2026-10-03 10:42:57Z - MESSAGE  - Sim Pool 1       - Main           ]  [LineInsights] END line=131995 valid=true persons=0 waiting=0 onboard=0 unassigned=0 vehicles=4 lineKind=unknown waitDuration=not_verified sectionOccupancy=unknown gameTime=25111400 gameTime0=25111400 updateCount=125557 tickCount=162480 speedup=0 millisPerDay=4000
+[2026-10-03 10:42:57Z - MESSAGE  - Sim Pool 4       - Main           ]  [LineInsights] BEGIN line=132913 name=Linie 3 componentNamespace=api.type.ComponentType gameTime=25111400 gameTime0=25111400 updateCount=125557 tickCount=162481 speedup=0 millisPerDay=4000
+[2026-10-03 10:42:57Z - MESSAGE  - Sim Pool 4       - Main           ]  [LineInsights] STOP tableIndex=1 stationGroup=119226 name=Obertshausen Hafen station=0 terminal=0
+[2026-10-03 10:42:57Z - MESSAGE  - Sim Pool 4       - Main           ]  [LineInsights] STOP tableIndex=2 stationGroup=125797 name=Obertshausen Station Zentrum station=0 terminal=0
+[2026-10-03 10:42:57Z - MESSAGE  - Sim Pool 4       - Main           ]  [LineInsights] STOP_COMPARE rawIndex=0 fromPersons=0 terminalList=0 terminalCount=0
+[2026-10-03 10:42:57Z - MESSAGE  - Sim Pool 4       - Main           ]  [LineInsights] STOP_COMPARE rawIndex=1 fromPersons=0 terminalList=0 terminalCount=0
+[2026-10-03 10:42:57Z - MESSAGE  - Sim Pool 4       - Main           ]  [LineInsights] VEHICLE entity=125750 stopIndex=0 state=1 passengers=0
+[2026-10-03 10:42:57Z - MESSAGE  - Sim Pool 4       - Main           ]  [LineInsights] VEHICLE entity=120363 stopIndex=1 state=2 passengers=0
+[2026-10-03 10:42:57Z - MESSAGE  - Sim Pool 4       - Main           ]  [LineInsights] VEHICLE entity=133485 stopIndex=1 state=2 passengers=0
+[2026-10-03 10:42:57Z - MESSAGE  - Sim Pool 4       - Main           ]  [LineInsights] VEHICLE entity=134724 stopIndex=0 state=2 passengers=0
+[2026-10-03 10:42:57Z - MESSAGE  - Sim Pool 4       - Main           ]  [LineInsights] END line=132913 valid=true persons=0 waiting=0 onboard=0 unassigned=0 vehicles=4 lineKind=unknown waitDuration=not_verified sectionOccupancy=unknown gameTime=25111400 gameTime0=25111400 updateCount=125557 tickCount=162481 speedup=0 millisPerDay=4000
+[2026-10-03 10:42:57Z - MESSAGE  - Sim Pool 2       - Main           ]  [LineInsights] BEGIN line=138451 name=Linie 7 componentNamespace=api.type.ComponentType gameTime=25111400 gameTime0=25111400 updateCount=125557 tickCount=162482 speedup=0 millisPerDay=4000
+[2026-10-03 10:42:57Z - MESSAGE  - Sim Pool 2       - Main           ]  [LineInsights] STOP tableIndex=1 stationGroup=120983 name=Biedenkopf Hafen station=0 terminal=2
+[2026-10-03 10:42:57Z - MESSAGE  - Sim Pool 2       - Main           ]  [LineInsights] STOP_COMPARE rawIndex=0 fromPersons=0 terminalList=0 terminalCount=0
+[2026-10-03 10:42:57Z - MESSAGE  - Sim Pool 2       - Main           ]  [LineInsights] END line=138451 valid=true persons=0 waiting=0 onboard=0 unassigned=0 vehicles=0 lineKind=unknown waitDuration=not_verified sectionOccupancy=unknown gameTime=25111400 gameTime0=25111400 updateCount=125557 tickCount=162482 speedup=0 millisPerDay=4000
+[2026-10-03 10:42:57Z - MESSAGE  - Sim Pool 2       - Main           ]  [LineInsights] SCAN_COMPLETE
+[2026-10-03 10:44:32Z - MESSAGE  - Simulation Threa - Main           ]  [LineInsights] REQUEST lines=1
+[2026-10-03 10:44:32Z - MESSAGE  - Sim Pool 4       - Main           ]  [LineInsights] BEGIN line=81576 name=Obertshausen SB 1 componentNamespace=api.type.ComponentType gameTime=25111400 gameTime0=25111400 updateCount=125557 tickCount=162957 speedup=0 millisPerDay=4000
+[2026-10-03 10:44:32Z - MESSAGE  - Sim Pool 4       - Main           ]  [LineInsights] STOP tableIndex=1 stationGroup=91088 name=Kastanienweg station=0 terminal=0
+[2026-10-03 10:44:32Z - MESSAGE  - Sim Pool 4       - Main           ]  [LineInsights] STOP tableIndex=2 stationGroup=91095 name=Beethovenstrasse station=0 terminal=0
+[2026-10-03 10:44:32Z - MESSAGE  - Sim Pool 4       - Main           ]  [LineInsights] STOP tableIndex=3 stationGroup=91106 name=Raiffeisenstrasse station=0 terminal=0
+[2026-10-03 10:44:32Z - MESSAGE  - Sim Pool 4       - Main           ]  [LineInsights] STOP tableIndex=4 stationGroup=91109 name=Fliederweg station=0 terminal=0
+[2026-10-03 10:44:32Z - MESSAGE  - Sim Pool 4       - Main           ]  [LineInsights] STOP tableIndex=5 stationGroup=91122 name=Kirchplatz station=0 terminal=0
+[2026-10-03 10:44:32Z - MESSAGE  - Sim Pool 4       - Main           ]  [LineInsights] UNASSIGNED person=122202 reason=no_matching_terminal_or_vehicle
+[2026-10-03 10:44:32Z - MESSAGE  - Sim Pool 4       - Main           ]  [LineInsights] UNASSIGNED person=114582 reason=no_matching_terminal_or_vehicle
+[2026-10-03 10:44:32Z - MESSAGE  - Sim Pool 4       - Main           ]  [LineInsights] UNASSIGNED person=118173 reason=no_matching_terminal_or_vehicle
+[2026-10-03 10:44:32Z - MESSAGE  - Sim Pool 4       - Main           ]  [LineInsights] WAIT person=104762 line=81576 from=1 to=4 arrivalTime=25104400 vehicle=-1
+[2026-10-03 10:44:32Z - MESSAGE  - Sim Pool 4       - Main           ]  [LineInsights] WAIT person=104121 line=81576 from=2 to=3 arrivalTime=25031800 vehicle=-1
+[2026-10-03 10:44:32Z - MESSAGE  - Sim Pool 4       - Main           ]  [LineInsights] UNASSIGNED person=106083 reason=no_matching_terminal_or_vehicle
+[2026-10-03 10:44:32Z - MESSAGE  - Sim Pool 4       - Main           ]  [LineInsights] UNASSIGNED person=131403 reason=no_matching_terminal_or_vehicle
+[2026-10-03 10:44:32Z - MESSAGE  - Sim Pool 4       - Main           ]  [LineInsights] UNASSIGNED person=135174 reason=no_matching_terminal_or_vehicle
+[2026-10-03 10:44:32Z - MESSAGE  - Sim Pool 4       - Main           ]  [LineInsights] UNASSIGNED person=138647 reason=no_matching_terminal_or_vehicle
+[2026-10-03 10:44:32Z - MESSAGE  - Sim Pool 4       - Main           ]  [LineInsights] UNASSIGNED person=138356 reason=no_matching_terminal_or_vehicle
+[2026-10-03 10:44:32Z - MESSAGE  - Sim Pool 4       - Main           ]  [LineInsights] UNASSIGNED person=39337 reason=no_matching_terminal_or_vehicle
+[2026-10-03 10:44:32Z - MESSAGE  - Sim Pool 4       - Main           ]  [LineInsights] UNASSIGNED person=134976 reason=no_matching_terminal_or_vehicle
+[2026-10-03 10:44:32Z - MESSAGE  - Sim Pool 4       - Main           ]  [LineInsights] UNASSIGNED person=63527 reason=no_matching_terminal_or_vehicle
+[2026-10-03 10:44:32Z - MESSAGE  - Sim Pool 4       - Main           ]  [LineInsights] UNASSIGNED person=127858 reason=no_matching_terminal_or_vehicle
+[2026-10-03 10:44:32Z - MESSAGE  - Sim Pool 4       - Main           ]  [LineInsights] WAIT person=115416 line=81576 from=3 to=0 arrivalTime=25062400 vehicle=-1
+[2026-10-03 10:44:32Z - MESSAGE  - Sim Pool 4       - Main           ]  [LineInsights] WAIT person=132814 line=81576 from=2 to=3 arrivalTime=25032200 vehicle=-1
+[2026-10-03 10:44:32Z - MESSAGE  - Sim Pool 4       - Main           ]  [LineInsights] UNASSIGNED person=110169 reason=no_matching_terminal_or_vehicle
+[2026-10-03 10:44:32Z - MESSAGE  - Sim Pool 4       - Main           ]  [LineInsights] WAIT person=119218 line=81576 from=3 to=4 arrivalTime=25087800 vehicle=-1
+[2026-10-03 10:44:32Z - MESSAGE  - Sim Pool 4       - Main           ]  [LineInsights] UNASSIGNED person=133600 reason=no_matching_terminal_or_vehicle
+[2026-10-03 10:44:32Z - MESSAGE  - Sim Pool 4       - Main           ]  [LineInsights] UNASSIGNED person=116850 reason=no_matching_terminal_or_vehicle
+[2026-10-03 10:44:32Z - MESSAGE  - Sim Pool 4       - Main           ]  [LineInsights] WAIT_OD rawIndices=3->4 count=1
+[2026-10-03 10:44:32Z - MESSAGE  - Sim Pool 4       - Main           ]  [LineInsights] WAIT_OD rawIndices=1->4 count=1
+[2026-10-03 10:44:32Z - MESSAGE  - Sim Pool 4       - Main           ]  [LineInsights] WAIT_OD rawIndices=2->3 count=3
+[2026-10-03 10:44:32Z - MESSAGE  - Sim Pool 4       - Main           ]  [LineInsights] WAIT_OD rawIndices=1->3 count=2
+[2026-10-03 10:44:32Z - MESSAGE  - Sim Pool 4       - Main           ]  [LineInsights] WAIT_OD rawIndices=3->0 count=1
+[2026-10-03 10:44:32Z - MESSAGE  - Sim Pool 4       - Main           ]  [LineInsights] WAIT_OD rawIndices=4->0 count=1
+[2026-10-03 10:44:32Z - MESSAGE  - Sim Pool 4       - Main           ]  [LineInsights] STOP_COMPARE rawIndex=0 fromPersons=0 terminalList=0 terminalCount=0
+[2026-10-03 10:44:32Z - MESSAGE  - Sim Pool 4       - Main           ]  [LineInsights] STOP_COMPARE rawIndex=1 fromPersons=3 terminalList=3 terminalCount=3
+[2026-10-03 10:44:32Z - MESSAGE  - Sim Pool 4       - Main           ]  [LineInsights] STOP_COMPARE rawIndex=2 fromPersons=3 terminalList=3 terminalCount=3
+[2026-10-03 10:44:32Z - MESSAGE  - Sim Pool 4       - Main           ]  [LineInsights] STOP_COMPARE rawIndex=3 fromPersons=2 terminalList=2 terminalCount=2
+[2026-10-03 10:44:32Z - MESSAGE  - Sim Pool 4       - Main           ]  [LineInsights] STOP_COMPARE rawIndex=4 fromPersons=1 terminalList=1 terminalCount=1
+[2026-10-03 10:44:32Z - MESSAGE  - Sim Pool 4       - Main           ]  [LineInsights] VEHICLE entity=81353 stopIndex=0 state=1 passengers=4
+[2026-10-03 10:44:32Z - MESSAGE  - Sim Pool 4       - Main           ]  [LineInsights] VEHICLE entity=80974 stopIndex=3 state=1 passengers=6
+[2026-10-03 10:44:32Z - MESSAGE  - Sim Pool 4       - Main           ]  [LineInsights] VEHICLE entity=81321 stopIndex=4 state=1 passengers=6
+[2026-10-03 10:44:32Z - MESSAGE  - Sim Pool 4       - Main           ]  [LineInsights] VEHICLE entity=81039 stopIndex=2 state=1 passengers=6
+[2026-10-03 10:44:32Z - MESSAGE  - Sim Pool 4       - Main           ]  [LineInsights] VEHICLE entity=81479 stopIndex=1 state=1 passengers=2
+[2026-10-03 10:44:32Z - MESSAGE  - Sim Pool 4       - Main           ]  [LineInsights] END line=81576 valid=true persons=52 waiting=9 onboard=24 unassigned=19 vehicles=5 lineKind=person_usage_observed waitDuration=not_verified sectionOccupancy=unknown gameTime=25111400 gameTime0=25111400 updateCount=125557 tickCount=162957 speedup=0 millisPerDay=4000
+[2026-10-03 10:44:32Z - MESSAGE  - Sim Pool 4       - Main           ]  [LineInsights] SCAN_COMPLETE
+[2026-10-03 10:46:45Z - MESSAGE  - Simulation Threa - Main           ]  [LineInsights] REQUEST lines=1
+[2026-10-03 10:46:45Z - MESSAGE  - Sim Pool 2       - Main           ]  [LineInsights] BEGIN line=81576 name=Obertshausen SB 1 componentNamespace=api.type.ComponentType gameTime=25217600 gameTime0=25217600 updateCount=126088 tickCount=163620 speedup=0 millisPerDay=4000
+[2026-10-03 10:46:45Z - MESSAGE  - Sim Pool 2       - Main           ]  [LineInsights] STOP tableIndex=1 stationGroup=91088 name=Kastanienweg station=0 terminal=0
+[2026-10-03 10:46:45Z - MESSAGE  - Sim Pool 2       - Main           ]  [LineInsights] STOP tableIndex=2 stationGroup=91095 name=Beethovenstrasse station=0 terminal=0
+[2026-10-03 10:46:45Z - MESSAGE  - Sim Pool 2       - Main           ]  [LineInsights] STOP tableIndex=3 stationGroup=91106 name=Raiffeisenstrasse station=0 terminal=0
+[2026-10-03 10:46:45Z - MESSAGE  - Sim Pool 2       - Main           ]  [LineInsights] STOP tableIndex=4 stationGroup=91109 name=Fliederweg station=0 terminal=0
+[2026-10-03 10:46:45Z - MESSAGE  - Sim Pool 2       - Main           ]  [LineInsights] STOP tableIndex=5 stationGroup=91122 name=Kirchplatz station=0 terminal=0
+[2026-10-03 10:46:45Z - MESSAGE  - Sim Pool 2       - Main           ]  [LineInsights] UNASSIGNED person=139651 reason=no_matching_terminal_or_vehicle
+[2026-10-03 10:46:45Z - MESSAGE  - Sim Pool 2       - Main           ]  [LineInsights] UNASSIGNED person=136125 reason=no_matching_terminal_or_vehicle
+[2026-10-03 10:46:45Z - MESSAGE  - Sim Pool 2       - Main           ]  [LineInsights] UNASSIGNED person=133600 reason=no_matching_terminal_or_vehicle
+[2026-10-03 10:46:45Z - MESSAGE  - Sim Pool 2       - Main           ]  [LineInsights] WAIT person=135174 line=81576 from=1 to=3 arrivalTime=25158000 vehicle=-1
+[2026-10-03 10:46:45Z - MESSAGE  - Sim Pool 2       - Main           ]  [LineInsights] WAIT person=110779 line=81576 from=2 to=3 arrivalTime=25185800 vehicle=-1
+[2026-10-03 10:46:45Z - MESSAGE  - Sim Pool 2       - Main           ]  [LineInsights] WAIT person=119855 line=81576 from=1 to=2 arrivalTime=25193800 vehicle=-1
+[2026-10-03 10:46:45Z - MESSAGE  - Sim Pool 2       - Main           ]  [LineInsights] UNASSIGNED person=109654 reason=no_matching_terminal_or_vehicle
+[2026-10-03 10:46:45Z - MESSAGE  - Sim Pool 2       - Main           ]  [LineInsights] UNASSIGNED person=143337 reason=no_matching_terminal_or_vehicle
+[2026-10-03 10:46:45Z - MESSAGE  - Sim Pool 2       - Main           ]  [LineInsights] UNASSIGNED person=127858 reason=no_matching_terminal_or_vehicle
+[2026-10-03 10:46:45Z - MESSAGE  - Sim Pool 2       - Main           ]  [LineInsights] WAIT person=138647 line=81576 from=4 to=0 arrivalTime=25209600 vehicle=-1
+[2026-10-03 10:46:45Z - MESSAGE  - Sim Pool 2       - Main           ]  [LineInsights] WAIT person=129632 line=81576 from=3 to=0 arrivalTime=25216600 vehicle=-1
+[2026-10-03 10:46:45Z - MESSAGE  - Sim Pool 2       - Main           ]  [LineInsights] UNASSIGNED person=115344 reason=no_matching_terminal_or_vehicle
+[2026-10-03 10:46:45Z - MESSAGE  - Sim Pool 2       - Main           ]  [LineInsights] UNASSIGNED person=103258 reason=no_matching_terminal_or_vehicle
+[2026-10-03 10:46:45Z - MESSAGE  - Sim Pool 2       - Main           ]  [LineInsights] UNASSIGNED person=129637 reason=no_matching_terminal_or_vehicle
+[2026-10-03 10:46:45Z - MESSAGE  - Sim Pool 2       - Main           ]  [LineInsights] UNASSIGNED person=123137 reason=no_matching_terminal_or_vehicle
+[2026-10-03 10:46:45Z - MESSAGE  - Sim Pool 2       - Main           ]  [LineInsights] UNASSIGNED person=81181 reason=no_matching_terminal_or_vehicle
+[2026-10-03 10:46:45Z - MESSAGE  - Sim Pool 2       - Main           ]  [LineInsights] WAIT_OD rawIndices=1->3 count=1
+[2026-10-03 10:46:45Z - MESSAGE  - Sim Pool 2       - Main           ]  [LineInsights] WAIT_OD rawIndices=2->3 count=1
+[2026-10-03 10:46:45Z - MESSAGE  - Sim Pool 2       - Main           ]  [LineInsights] WAIT_OD rawIndices=4->0 count=1
+[2026-10-03 10:46:45Z - MESSAGE  - Sim Pool 2       - Main           ]  [LineInsights] WAIT_OD rawIndices=1->2 count=1
+[2026-10-03 10:46:45Z - MESSAGE  - Sim Pool 2       - Main           ]  [LineInsights] WAIT_OD rawIndices=3->0 count=1
+[2026-10-03 10:46:45Z - MESSAGE  - Sim Pool 2       - Main           ]  [LineInsights] STOP_COMPARE rawIndex=0 fromPersons=0 terminalList=0 terminalCount=0
+[2026-10-03 10:46:45Z - MESSAGE  - Sim Pool 2       - Main           ]  [LineInsights] STOP_COMPARE rawIndex=1 fromPersons=2 terminalList=2 terminalCount=2
+[2026-10-03 10:46:45Z - MESSAGE  - Sim Pool 2       - Main           ]  [LineInsights] STOP_COMPARE rawIndex=2 fromPersons=1 terminalList=1 terminalCount=1
+[2026-10-03 10:46:45Z - MESSAGE  - Sim Pool 2       - Main           ]  [LineInsights] STOP_COMPARE rawIndex=3 fromPersons=1 terminalList=1 terminalCount=1
+[2026-10-03 10:46:45Z - MESSAGE  - Sim Pool 2       - Main           ]  [LineInsights] STOP_COMPARE rawIndex=4 fromPersons=1 terminalList=1 terminalCount=1
+[2026-10-03 10:46:45Z - MESSAGE  - Sim Pool 2       - Main           ]  [LineInsights] VEHICLE entity=80974 stopIndex=0 state=1 passengers=5
+[2026-10-03 10:46:45Z - MESSAGE  - Sim Pool 2       - Main           ]  [LineInsights] VEHICLE entity=81479 stopIndex=3 state=1 passengers=6
+[2026-10-03 10:46:45Z - MESSAGE  - Sim Pool 2       - Main           ]  [LineInsights] VEHICLE entity=81039 stopIndex=4 state=1 passengers=5
+[2026-10-03 10:46:45Z - MESSAGE  - Sim Pool 2       - Main           ]  [LineInsights] VEHICLE entity=81321 stopIndex=1 state=1 passengers=4
+[2026-10-03 10:46:45Z - MESSAGE  - Sim Pool 2       - Main           ]  [LineInsights] VEHICLE entity=81353 stopIndex=1 state=2 passengers=3
+[2026-10-03 10:46:45Z - MESSAGE  - Sim Pool 2       - Main           ]  [LineInsights] END line=81576 valid=true persons=39 waiting=5 onboard=23 unassigned=11 vehicles=5 lineKind=person_usage_observed waitDuration=not_verified sectionOccupancy=unknown gameTime=25217600 gameTime0=25217600 updateCount=126088 tickCount=163620 speedup=0 millisPerDay=4000
+[2026-10-03 10:46:45Z - MESSAGE  - Sim Pool 2       - Main           ]  [LineInsights] SCAN_COMPLETE
+[2026-10-03 10:50:07Z - MESSAGE  - Main Thread      - Main           ]  [LineInsights] FOLLOW person=104762 waitingLine=nil onboardLine=81576 vehicle=81479
+[2026-10-03 10:50:07Z - MESSAGE  - Main Thread      - Main           ]  [LineInsights] FOLLOW person=104121 waitingLine=nil onboardLine=nil vehicle=nil
+[2026-10-03 10:50:07Z - MESSAGE  - Main Thread      - Main           ]  [LineInsights] FOLLOW person=115416 waitingLine=nil onboardLine=81576 vehicle=80974
+[2026-10-03 10:50:07Z - MESSAGE  - Main Thread      - Main           ]  [LineInsights] FOLLOW person=132814 waitingLine=nil onboardLine=nil vehicle=nil
+[2026-10-03 10:50:07Z - MESSAGE  - Main Thread      - Main           ]  [LineInsights] FOLLOW person=119218 waitingLine=nil onboardLine=nil vehicle=nil
+[2026-10-03 10:50:07Z - MESSAGE  - Main Thread      - Main           ]  [LineInsights] FOLLOW person=135174 waitingLine=81576 onboardLine=nil vehicle=nil
